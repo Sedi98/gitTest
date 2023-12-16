@@ -1,1 +1,43 @@
-{"id":"1","name":"Apple iPhone 15 Pro Max","price":"2500","description":"İPhone 13 -ün ekran ölçüsü 6.1 düymdür. Bu, hər kəsə uyğundur: smartfon əlinizdə rahat oturur, baş barmağınız isə ekranın bütün künclərinə çatır.Əgər kompakt cihazlar istəyirsinizsə, iPhone 13 Mini (5.4 düym diaqonal) seçin. Çox hərəkətlidir və cibə, çantaya asanlıqla uyğun gəlir. Yolda belə bir əlinizlə istifadə etmək rahatdır. Eyni zamanda ölçülərə baxmayaraq, smartfon dəbli."},{"id":"2","name":"Zayfon 15 peysomax","price":"1500","description":"zibil kimi telefondur ve hec bir poxa derman deyil"},{"id":"3","name":"Cindir 16 Zayomax","price":"2000","description":"Zayob olmaq isteyirsinizse ve zayob olmaqdan xosunuz gewlirse xahis edirem bu telefonu alin o sizin mazqinizi xarab edecek ve sizi deli edecek cunku o zayebalisdir"},{"id":"4","name":"Tiktok fucker 14 dalbaniskiy","price":"3500","description":"Tiktok istifade edirsiniz ve petuxlarin yanininda like duymesinin ustunde oturub per peysere petux petux hediyyeler gondermek isteyirsinizse onda bu sikilmis telefonu hec cekinmeden elde edin"}
+[
+  {
+    "MALZEME KODU": "ACHRKO002862",
+    "MƏHSULUN KOHNE ADI": "PEREXODNIK OTG  N8 FLESKA",
+    "MƏHSULUN YENI ADI": "OTURUCU OTG TO FLASHCARD N8",
+    "KATEQORIYYASI": "T/A KABEL VE OTURUCULER"
+  },
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 Pro Max",
+    "price": 2500,
+    "image": " require('../assets/product_images/phone.jpeg')",
+    "description": "zayfon 13 promax"
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 2600,
+    "image": " require('../assets/product_images/phone.jpeg')",
+    "description": "zayfon 13 promax"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 11 fbdbdbd",
+    "price": 2600,
+    "image": " require('../assets/product_images/phone.jpeg')",
+    "description": "zayfon 11 promax"
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 10 Pro 0",
+    "price": 2600,
+    "image": " require('../assets/product_images/phone.jpeg')",
+    "description": "zayfon 00 promax"
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone 8 Pro Max",
+    "price": 2600,
+    "image": " require('../assets/product_images/phone.jpeg')",
+    "description": "zayfon 8 promax"
+  }
+]
