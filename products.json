@@ -1,1 +1,38 @@
 
+[
+  {
+    "id": 1,
+    "name": "RAF Buxarlı Seramik Ütü 2600 WATT",
+    "price": 2500,
+    "image": "https://www.dropbox.com/scl/fi/s19xe4yawzs9ny4an7t16/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?rlkey=fromg2xtl3zhwjxadry7pv7t3&dl=0",
+    "description": "zayfon 13 promax"
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 2600,
+    "image": "https://picsum.photos/200/300",
+    "description": "zayfon 13 promax"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 11 fbdbdbd",
+    "price": 2600,
+    "image": "https://picsum.photos/200/300",
+    "description": "zayfon 11 promax"
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 10 Pro 0",
+    "price": 2600,
+    "image": "https://picsum.photos/200/300",
+    "description": "zayfon 00 promax"
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone 8 Pro Max",
+    "price": 2600,
+    "image": "https://picsum.photos/200/300",
+    "description": "zayfon 8 promax"
+  }
+]
