@@ -1,0 +1,24 @@
+[
+ {
+  "usernama": "elnur",
+  "password": "baku2023",
+  "accType": "admin"
+   
+ 
+ },
+  {
+  "usernama": "admin",
+  "password": "xirdalan135",
+  "accType": "admin"
+ },
+  {
+  "usernama": "togrul",
+  "password": "baku2023",
+  "accType": "repair"
+ },
+  {
+  "usernama": "admin",
+  "password": "xirdalan135",
+  "accType": "user"
+  }
+]
