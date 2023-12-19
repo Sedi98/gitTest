@@ -1,23 +1,23 @@
 [
  {
-  "usernama": "elnur",
+  "username": "elnur",
   "password": "baku2023",
   "accType": "admin"
    
  
  },
   {
-  "usernama": "admin",
+  "username": "admin",
   "password": "xirdalan135",
   "accType": "admin"
  },
   {
-  "usernama": "togrul",
+  "username": "togrul",
   "password": "baku2023",
   "accType": "repair"
  },
   {
-  "usernama": "admin",
+  "username": "admin",
   "password": "xirdalan135",
   "accType": "user"
   }
