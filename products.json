@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -142,10 +141,82 @@
     "adminPrice": 33,
     "userPrice": 45,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/1215j.jpg?alt=media&token=e7e1d2c3-8707-4742-a0f4-4e92790f0394",
-    "description": "izah"
+    "description": "izah yoxdur"
   },
    {
     "id": 17,
+    "name": "Çaydan RAF R7816",
+    "price": 20,
+    "adminPrice": 10,
+    "userPrice": 15,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7816.jpg?alt=media&token=39253f08-e163-4f2a-aabf-e0fac35f88a7",
+    "description": "RAF elektrikli Çaydan paslanmayan materialdan hazırlanmışdır. LED İndiqatora malikdir. "
+  },
+   {
+    "id": 18,
+    "name": "Çaydan RAF R 7829",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7829.jpg?alt=media&token=a0c540a0-37be-42fa-b004-a34132cb270c",
+    "description": "Fırlana bilən altlıq. Gizli qızdırıcı element. Avtomatik sönmə funksiyası.Həcmi 2L. Güc 2000 vatt. Material Paslanmayan polad"
+  },
+   {
+    "id": 19,
+    "name": "Çaydan RAF R 7833 İnox",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7833.jpg?alt=media&token=f17a52a1-3a6d-4aca-8c9c-bd2cb3035420",
+    "description": "Şüşə şəffaf materiala malik elektrik çaydan. 2200 vatt gücə malikdir. LED işiq efekti var."
+  },
+   {
+    "id": 20,
+    "name": "Çaydan RAF R 7842",
+    "price": 35,
+    "adminPrice": 25,
+    "userPrice": 32,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7842.jpg?alt=media&token=52979858-912a-4561-95d1-e38cc0b874c3",
+    "description": "Səssiz qaynama, 360 dərəcə fırlanma, su səviyyəsinin göstəricisi. Təhlükəsizlik: stenddən çıxarıldıqda çaydan avtomatik sönür.Tutum 2.2L güc 2000Vatt. Rəng qızılı"
+  },
+  {
+    "id": 21,
+    "name": "Çaydan RAF R 7856 AĞ",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856v.jpg?alt=media&token=9c8d7e11-9654-4968-a9a8-6bc0e113aed1",
+    "description": "2200 vatt güc.Paslanmayan polad astar.Su tutumu 2.5L. LED göstərici yoxdur."
+  },
+  {
+    "id": 22,
+    "name": "Çaydan RAF R 7856 Çəhrayı",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856p.jpg?alt=media&token=1537ca99-fa38-4234-b82d-51b8ff5e379c",
+    "description": "2200 vatt güc.Paslanmayan polad astar.Su tutumu 2.5L. LED göstərici yoxdur."
+  },
+  {
+    "id": 23,
+    "name": "Çaydan RAF R 7916 Göy",
+    "price": 30,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916B.jpg?alt=media&token=95097cc0-265a-451f-9faa-6f7bfbe117c3",
+    "description": "Sabit temperatur: 60-70 dərəcə isti saxlama funskiyası.360 dərəcə fırlanan baza. BPA free material"
+  },
+  {
+    "id": 24,
+    "name": "Çaydan RAF R 7916 Qızılı",
+    "price": 30,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916g.jpg?alt=media&token=2d7cabb0-6a04-4221-af2a-8549e9d39067",
+    "description": "Sabit temperatur: 60-70 dərəcə isti saxlama funskiyası.360 dərəcə fırlanan baza. BPA free material"
+  },
+  {
+    "id": 25,
     "name": "Ütü RAF R.1215J",
     "price": 11,
     "adminPrice": 19,
@@ -153,8 +224,8 @@
     "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
     "description": "izah"
   },
-   {
-    "id": 18,
+  {
+    "id": 26,
     "name": "Ütü RAF R.1215J",
     "price": 11,
     "adminPrice": 19,
@@ -162,8 +233,8 @@
     "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
     "description": "izah"
   },
-   {
-    "id": 18,
+  {
+    "id": 27,
     "name": "Ütü RAF R.1215J",
     "price": 11,
     "adminPrice": 19,
@@ -171,8 +242,53 @@
     "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
     "description": "izah"
   },
-   {
-    "id": 18,
+  {
+    "id": 28,
+    "name": "Ütü RAF R.1215J",
+    "price": 11,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
+    "description": "izah"
+  },
+  {
+    "id": 29,
+    "name": "Ütü RAF R.1215J",
+    "price": 11,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
+    "description": "izah"
+  },
+  {
+    "id": 30,
+    "name": "Ütü RAF R.1215J",
+    "price": 11,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
+    "description": "izah"
+  },
+  {
+    "id": 31,
+    "name": "Ütü RAF R.1215J",
+    "price": 11,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
+    "description": "izah"
+  },
+  {
+    "id": 32,
+    "name": "Ütü RAF R.1215J",
+    "price": 11,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
+    "description": "izah"
+  },
+  {
+    "id": 33,
     "name": "Ütü RAF R.1215J",
     "price": 11,
     "adminPrice": 19,
