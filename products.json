@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -19,10 +20,10 @@
   },
   {
     "id": 3,
-    "name": "Doğrayıcı RAF R7006",
-    "price": 39,
-    "adminPrice": 20,
-    "userPrice": 32,
+    "name": "Doğrayıcı RAF R7005",
+    "price": 40,
+    "adminPrice": 27,
+    "userPrice": 35,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/dograyici%20r7006.jpg?alt=media&token=fe02eee5-4328-4cfc-8a80-fe72571ef919",
     "description": "RAF doğrayıcı sayəsində, müxtəlif yeməklər üçün inqridentlər hazırlaya, uşaqlar üçün kartof püresi və böyüklər üçün pəhriz yeməkləri hazırlaya bilərsiniz."
   },
@@ -217,75 +218,75 @@
   },
   {
     "id": 25,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Çaydan RAF R 7930 QARA",
+    "price": 30,
+    "adminPrice": 25,
+    "userPrice": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930.webp?alt=media&token=e50f6f5c-8792-4680-9e53-da455376801c",
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq "
   },
   {
     "id": 26,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Çaydan RAF R 7930 AĞ",
+    "price": 30,
+    "adminPrice": 25,
+    "userPrice": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930vh.webp?alt=media&token=16d87f40-1ba2-4870-a344-51f30756a76f",
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq "
   },
   {
     "id": 27,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Çaydan RAF R 7930 Mavi",
+    "price": 30,
+    "adminPrice": 25,
+    "userPrice": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930b.webp?alt=media&token=de8c13a8-32da-4855-959b-5149d790c8cf",
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq "
   },
   {
     "id": 28,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Çaydan + Dəmlik RAF R 7898",
+    "price": 40,
+    "adminPrice": 27,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7898.jpg?alt=media&token=bde1e3d7-fc56-47c3-9c59-302fb59914a4",
+    "description": "Həm kettle həm də çaydan dəmlik kimi istifadə oluna bilər. Susuz işləməyə qarşı muhafizə sistemi mövcuddur. Çaydan 2l dəmlik isə 0.8L həcminə sahibdir. Temperaturu saxlama rejimi mövcuddur."
   },
   {
     "id": 29,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Blender RAF R 7039",
+    "price": 25,
+    "adminPrice": 14,
+    "userPrice": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7039.jpg?alt=media&token=e8409e6f-52a7-40b0-a835-07954254d996",
+    "description": "izah yoxdur"
   },
   {
     "id": 30,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Blender RAF R 7040",
+    "price": 40,
+    "adminPrice": 23,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7040.jpg?alt=media&token=66b4397b-7e67-4e11-9f14-a36a481a6df4",
+    "description": "Paslanmayan bıçaq materialdan hazırlanıb. 2l qab tutumuna malikdir. 800vatt gücü var.2 sürət rejimi var"
   },
   {
     "id": 31,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Elektrik Plitə RAF R 8020 2 Gözlü",
+    "price": 32,
+    "adminPrice": 21,
+    "userPrice": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8020.png?alt=media&token=e30c0fcd-2db0-48bc-ab25-2cc3adf9a4ac",
+    "description": "izah yoxdur"
   },
   {
     "id": 32,
-    "name": "Ütü RAF R.1215J",
-    "price": 11,
-    "adminPrice": 19,
-    "userPrice": 25,
-    "image": "http://smemmedov.lovestoblog.com/media/photo.webp",
-    "description": "izah"
+    "name": "Elektrik Plitə RAF R 8010 1 Gözlü",
+    "price": 18,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8010.jpg?alt=media&token=5e7fa58a-ea5f-48aa-af97-8f8414eb02dc",
+    "description": "izah yoxdur"
   },
   {
     "id": 33,
