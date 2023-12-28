@@ -7,7 +7,8 @@
     "adminPrice": 19,
     "userPrice": 25,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
-    "description": "RAF Buxarlı sermaik ütü 2200 Vatt güc ilə sizə keyfiyyətli ütüləmə vəd edir. Həmçinin seramik altlıq vasitəsi ilə ütü zamanı altlıq paltarlara yapışmır.Güclü buxar vasitəsi ilə bütün qırışları yox edir. "
+    "description": "RAF Buxarlı sermaik ütü 2200 Vatt güc ilə sizə keyfiyyətli ütüləmə vəd edir. Həmçinin seramik altlıq vasitəsi ilə ütü zamanı altlıq paltarlara yapışmır.Güclü buxar vasitəsi ilə bütün qırışları yox edir. ",
+    "available": "true"
   },
   {
     "id": 2,
@@ -17,6 +18,7 @@
     "userPrice": 35,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7899.jpg?alt=media&token=215c62bd-9cbc-4800-9e29-1eb831bcd914",
     "description": "2200 Vt Güc Avtomatik Sönmə Funksiyalı Polad Çaydan.RAF Elektrikli çaydan dəsti 2000 Vt gücü və 2,3 litrə qədər qab tutumu sayəsində suyun tez qaynadılmasına nail olur.Paslanmayan poladdan hazırlanmışdır, rahatlıqla istifadə edə bilərsiniz. İsitmə sürətlidir, təxminən 3-4 dəqiqəyə qaynayır, vaxta və elektrik enerjisinə qənaət edir."
+    "available": "true"
   },
   {
     "id": 3,
@@ -26,6 +28,7 @@
     "userPrice": 35,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/dograyici%20r7006.jpg?alt=media&token=fe02eee5-4328-4cfc-8a80-fe72571ef919",
     "description": "RAF doğrayıcı sayəsində, müxtəlif yeməklər üçün inqridentlər hazırlaya, uşaqlar üçün kartof püresi və böyüklər üçün pəhriz yeməkləri hazırlaya bilərsiniz."
+    "available": "true"
   },
   {
     "id": 4,
@@ -35,6 +38,7 @@
     "userPrice": 130,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/fritoz%20r5330.jpg?alt=media&token=6e917474-b58a-4020-9dcb-7692b9c0c71a",
     "description": "Çoxfunksiyalı hava fritözü yapışmayan bişirmə səthinə sahibdir. Böyük 5.8L tutumu sayəsində siz ailəniz üçün yeməklər bişirə bilərsiniz.Ənənəvi qızartma avadanlıqlarından 80% daha az yağ istifadə edərək mükəmməl qızartmalar hazırlaya biləriniz"
+    "available": "true"
   },
   {
     "id": 5,
@@ -44,6 +48,7 @@
     "userPrice": 40,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r331.jpg?alt=media&token=acf5c773-469b-4e18-bf1d-2341b90244cc",
     "description": "Blender seti RAF R331 paslanmayan metaldan hazırlanmışdır. 2 ədəd sürət rejimi var. Buz qırma funksiyası YOXDUR.Qabın tutumu 500ml təşkil edir"
+    "available": "true"
   },
   {
     "id": 6,
@@ -53,6 +58,7 @@
     "userPrice": 40,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r331ag.jpg?alt=media&token=d92bc044-2544-4097-ade5-13fb73c8ba6e",
     "description": "Blender seti RAF R331 paslanmayan metaldan hazırlanmışdır. 2 ədəd sürət rejimi var. Buz qırma funksiyası YOXDUR.Qabın tutumu 500ml təşkil edir"
+    "available": "true"
   },
   {
     "id": 7,
@@ -62,6 +68,7 @@
     "userPrice": 27,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/qehveuyuden%20r.7124.jpg?alt=media&token=a1da312e-1b46-48e6-9eff-dd07ee0dc3f3",
     "description": "200W güclü performansa malikdir.Üyütmə dərəcəsinin tənzimlənməsi funskiyası mövcuddur.Paslanmayan materialdan hazırlanmış polad bıçaqlar"
+    "available": "true"
   },
   {
     "id": 8,
@@ -71,6 +78,7 @@
     "userPrice": 40,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r295.jpg?alt=media&token=b2c4d380-fc40-4453-bf7d-72a3b08ea40a",
     "description": "Keyfiyyətli blender RAF r295. Həddindən artıq istidən qorunma funksiyası mövcuddur. Təhlükəsizlik kilidləmə açarı sizi hər hansı xoşagəlməz hadisədən muhafizə edir.1000 Vatt gücə malikdir. 5 ədəd sürət rejimi mövcuddur. Buz qırma funksiyası var. Paslanmayan polad bıçaqlardan istifadə olunmuşdur"
+    "available": "true"
   },
   {
     "id": 9,
@@ -80,6 +88,7 @@
     "userPrice": 55,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1155.jpg?alt=media&token=4e1de820-369e-4573-af37-e9b3d0f7ab1c",
     "description": "Yeni RAF 1155 ütüsü vasitəsi ilə paltarlarınızı daha rahat ütüləyə biləcəksiniz. Yapışmayan keramika altlığa malikdir.2800 vatt gücü var. Su püskürtmə və buxar püskürtmə kimi funskiyaları movcuddur və su tutumu 300ml təşkil edir"
+    "available": "true"
   },
    {
     "id": 10,
@@ -89,6 +98,7 @@
     "userPrice": 35,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
     "description": "2600 vatt gücə malikdir.Keramik altlığı mövcuddur. Su və buxar püskürtmə funksiyaları mövcuddur.Su tutumu 350ml təşkil edir. Naqil uzunluğu 1.5 metr"
+     "available": "true"
   },
    {
     "id": 11,
@@ -98,6 +108,7 @@
     "userPrice": 18,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1106p.jpg?alt=media&token=7464a20d-f248-4801-a6c2-4f3ad4c7422d",
     "description": "1800 vatt gücə malikdir. Teflon altlıq ilə gəlir. Yalnız çəhrayı rəngi mövcuddur. 3 temperatur rejimi var su tutumu isə 200 ml təşkil edir  "
+     "available": "true"
   },
    {
     "id": 12,
@@ -107,6 +118,7 @@
     "userPrice": 80,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r114.jpg?alt=media&token=f8e96af8-7c4c-42ad-b91e-da08347885ff",
     "description": "3.5 bar kofe bişirən cihaz. Temperatura nəzarət movcuddur.Müxtəlif rejimləri var."
+     "available": "true"
   },
    {
     "id": 13,
@@ -116,6 +128,7 @@
     "userPrice": 50,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r2817.jpg?alt=media&token=4a2de24c-3cb6-48a4-a3cd-e9dbd087ce7a",
     "description": "1000 vatt gücə malik şirə çəkən. 1.5L şirə qabı tutumu mövcuddur. 3 sürət rejimi var və turbo rejimi mövcuddur.Qırmızı rəngdədir"
+     "available": "true"
   },
    {
     "id": 14,
@@ -125,6 +138,7 @@
     "userPrice": 25,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r303black.jpg?alt=media&token=fa1d774f-06d2-4235-8a35-e688c930db4a",
     "description": "Blender RAF R 303B. Dəst deyil. 800 Vatt gücə malikdir"
+     "available": "true"
   },
    {
     "id": 15,
@@ -134,6 +148,7 @@
     "userPrice": 25,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r311B.jpg?alt=media&token=92cf1f4c-22dc-492b-879c-53bb17bf11e6",
     "description": "Ağ, Qara və tünd göy rəngləri mövcuddur.Dəst deyil"
+     "available": "true"
   },
    {
     "id": 16,
@@ -143,6 +158,7 @@
     "userPrice": 45,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/1215j.jpg?alt=media&token=e7e1d2c3-8707-4742-a0f4-4e92790f0394",
     "description": "izah yoxdur"
+     "available": "true"
   },
    {
     "id": 17,
@@ -152,6 +168,7 @@
     "userPrice": 15,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7816.jpg?alt=media&token=39253f08-e163-4f2a-aabf-e0fac35f88a7",
     "description": "RAF elektrikli Çaydan paslanmayan materialdan hazırlanmışdır. LED İndiqatora malikdir. "
+     "available": "true"
   },
    {
     "id": 18,
@@ -161,6 +178,7 @@
     "userPrice": 20,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7829.jpg?alt=media&token=a0c540a0-37be-42fa-b004-a34132cb270c",
     "description": "Fırlana bilən altlıq. Gizli qızdırıcı element. Avtomatik sönmə funksiyası.Həcmi 2L. Güc 2000 vatt. Material Paslanmayan polad"
+     "available": "true"
   },
    {
     "id": 19,
@@ -170,6 +188,7 @@
     "userPrice": 22,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7833.jpg?alt=media&token=f17a52a1-3a6d-4aca-8c9c-bd2cb3035420",
     "description": "Şüşə şəffaf materiala malik elektrik çaydan. 2200 vatt gücə malikdir. LED işiq efekti var."
+     "available": "true"
   },
    {
     "id": 20,
@@ -179,6 +198,7 @@
     "userPrice": 32,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7842.jpg?alt=media&token=52979858-912a-4561-95d1-e38cc0b874c3",
     "description": "Səssiz qaynama, 360 dərəcə fırlanma, su səviyyəsinin göstəricisi. Təhlükəsizlik: stenddən çıxarıldıqda çaydan avtomatik sönür.Tutum 2.2L güc 2000Vatt. Rəng qızılı"
+     "available": "true"
   },
   {
     "id": 21,
@@ -188,6 +208,7 @@
     "userPrice": 22,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856v.jpg?alt=media&token=9c8d7e11-9654-4968-a9a8-6bc0e113aed1",
     "description": "2200 vatt güc.Paslanmayan polad astar.Su tutumu 2.5L. LED göstərici yoxdur."
+    "available": "true"
   },
   {
     "id": 22,
@@ -197,6 +218,7 @@
     "userPrice": 22,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856p.jpg?alt=media&token=1537ca99-fa38-4234-b82d-51b8ff5e379c",
     "description": "2200 vatt güc.Paslanmayan polad astar.Su tutumu 2.5L. LED göstərici yoxdur."
+    "available": "true"
   },
   {
     "id": 23,
@@ -206,6 +228,7 @@
     "userPrice": 25,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916B.jpg?alt=media&token=95097cc0-265a-451f-9faa-6f7bfbe117c3",
     "description": "Sabit temperatur: 60-70 dərəcə isti saxlama funskiyası.360 dərəcə fırlanan baza. BPA free material"
+    "available": "true"
   },
   {
     "id": 24,
@@ -215,6 +238,7 @@
     "userPrice": 25,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916g.jpg?alt=media&token=2d7cabb0-6a04-4221-af2a-8549e9d39067",
     "description": "Sabit temperatur: 60-70 dərəcə isti saxlama funskiyası.360 dərəcə fırlanan baza. BPA free material"
+    "available": "true"
   },
   {
     "id": 25,
@@ -224,6 +248,7 @@
     "userPrice": 23,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930.webp?alt=media&token=e50f6f5c-8792-4680-9e53-da455376801c",
     "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq "
+    "available": "true"
   },
   {
     "id": 26,
@@ -232,7 +257,8 @@
     "adminPrice": 25,
     "userPrice": 23,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930vh.webp?alt=media&token=16d87f40-1ba2-4870-a344-51f30756a76f",
-    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq "
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq ""available": "true"
+    
   },
   {
     "id": 27,
@@ -242,6 +268,7 @@
     "userPrice": 23,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930b.webp?alt=media&token=de8c13a8-32da-4855-959b-5149d790c8cf",
     "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq "
+    "available": "true"
   },
   {
     "id": 28,
@@ -251,6 +278,7 @@
     "userPrice": 35,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7898.jpg?alt=media&token=bde1e3d7-fc56-47c3-9c59-302fb59914a4",
     "description": "Həm kettle həm də çaydan dəmlik kimi istifadə oluna bilər. Susuz işləməyə qarşı muhafizə sistemi mövcuddur. Çaydan 2l dəmlik isə 0.8L həcminə sahibdir. Temperaturu saxlama rejimi mövcuddur."
+    "available": "true"
   },
   {
     "id": 29,
@@ -260,6 +288,7 @@
     "userPrice": 20,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7039.jpg?alt=media&token=e8409e6f-52a7-40b0-a835-07954254d996",
     "description": "izah yoxdur"
+    "available": "true"
   },
   {
     "id": 30,
@@ -269,6 +298,7 @@
     "userPrice": 35,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7040.jpg?alt=media&token=66b4397b-7e67-4e11-9f14-a36a481a6df4",
     "description": "Paslanmayan bıçaq materialdan hazırlanıb. 2l qab tutumuna malikdir. 800vatt gücü var.2 sürət rejimi var"
+    "available": "true"
   },
   {
     "id": 31,
