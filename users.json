@@ -2,23 +2,27 @@
  {
   "username": "elnur",
   "password": "baku2023",
-  "accType": "admin"
+  "accType": "admin",
+  "cashback": "10"
    
  
  },
   {
   "username": "admin",
   "password": "xirdalan135",
-  "accType": "admin"
+   "accType": "admin",
+  "cashback": "25"
  },
   {
   "username": "togrul",
   "password": "baku2023",
-  "accType": "repair"
+   "accType": "admin",
+  "cashback": "12"
  },
   {
-  "username": "test",
+  "username": "niyazi",
   "password": "123",
-  "accType": "user"
+  "accType": "user",
+  "cashback": "5"
   }
 ]
