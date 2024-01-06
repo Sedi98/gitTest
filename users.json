@@ -3,7 +3,7 @@
   "username": "elnur",
   "password": "baku2023",
   "accType": "admin",
-  "cashback": "10"
+  "cashback": "100"
    
  
  },
@@ -16,13 +16,13 @@
   {
   "username": "mehemmed",
   "password": "baku2023",
-   "accType": "admin",
+   "accType": "user",
   "cashback": "0"
  },
   {
-  "username": "niyazi",
-  "password": "123",
+  "username": "behruz",
+  "password": "baku2023",
   "accType": "user",
-  "cashback": "5"
+  "cashback": "0"
   }
 ]
