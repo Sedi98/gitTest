@@ -1,0 +1,164 @@
+
+[
+  {
+    "id": 1,
+    "name": "LCD SAMSUNG A50 ORG ",
+    "price": 90,
+    "discounted":true,
+    "adminPrice": 80,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "SAMSUNG GALAXY A50 ORJINAL EKRAN",
+    "available": "true"
+  },
+  
+  {
+    "id": 2,
+    "name": "LCD SAMSUNG A04E ",
+    "price": 30,
+    "discounted":true,
+    "adminPrice": 25,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "A04E EKRAN ",
+    "available": "true"
+  },
+
+  {
+    "id": 3,
+    "name": "LCD SAMSUNG A14 ",
+    "price": 35,
+    "discounted":true,
+    "adminPrice": 25,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "A14 EKRAN",
+    "available": "true"
+  },
+
+  {
+    "id": 4,
+    "name": "LCD SAMSUNG A30 ",
+    "price": 45,
+    "discounted":false,
+    "adminPrice": 40,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "IZAH",
+    "available": "true"
+  },
+
+  {
+    "id": 5,
+    "name": "LCD SAMSUNG A52 ORG ",
+    "price": 140,
+    "discounted":false,
+    "adminPrice": 130,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "IZAH",
+    "available": "true"
+  },
+
+  {
+    "id": 6,
+    "name": "LCD SAMSUNG A32 ORG ",
+    "price": 125,
+    "discounted":false,
+    "adminPrice": 115,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "IZAH",
+    "available": "true"
+  },
+
+  {
+    "id": 7,
+    "name": "LCD SAMSUNG A6 PLUS ",
+    "price": 60,
+    "discounted":true,
+    "adminPrice": 55,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "IZAH",
+    "available": "true"
+  },
+
+  {
+    "id": 8,
+    "name": "LCD SAMSUNG A20 ORG ",
+    "price": 75,
+    "discounted":false,
+    "adminPrice": 67,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "SAMSUNG GALAXY A20 ORJINAL EKRAN",
+    "available": "true"
+  },
+
+  {
+    "id": 9,
+    "name": "LCD SAMSUNG A31 ORG ",
+    "price": 100,
+    "discounted":false,
+    "adminPrice": 95,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "IZAH",
+    "available": "true"
+  },
+
+  {
+    "id": 10,
+    "name": "LCD SAMSUNG A03 ",
+    "price": 30,
+    "discounted":false,
+    "adminPrice": 23,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "images": [
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
+  ],
+    "description": "IZAH",
+    "available": "true"
+  }
+
+
+]
