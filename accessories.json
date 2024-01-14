@@ -497,5 +497,53 @@
     ],
     "description": "XO 30 VATT ENERJİ DOLDURMA BAŞLIĞI.ŞƏFFAF VƏ GÖZƏL DİZAYN. HƏM TYPE-C HƏM USB-A ÇIXIŞI MÖVCUDDUR. 30VATT SÜRƏTLİ ENERJİ DOLDURMASI TƏMİN EDİR",
     "available": "true"
+  },
+
+  {
+    "id": 32,
+    "name": "USB İPH LİGHTNİNG KÖHNƏ",
+    "discounted": false,
+    "adminPrice": 2,
+    "userPrice": 5,
+    "price": 7,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fiphone%20old%20usb.png?alt=media&token=bb35530b-444a-492e-ae16-4cbb120417a8",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fiphone%20old%20usb.png?alt=media&token=bb35530b-444a-492e-ae16-4cbb120417a8",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fiphone%20old%20usb.png?alt=media&token=bb35530b-444a-492e-ae16-4cbb120417a8"
+    ],
+    "description": "USB NAQİL İPHONE KÖHNƏ TİP ",
+    "available": "true"
+  },
+
+  {
+    "id": 33,
+    "name": "USB İPH LİGHTNİNG YENİ",
+    "discounted": false,
+    "adminPrice": 6,
+    "userPrice": 10,
+    "price": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fiphone%20usb%20pd.jpg?alt=media&token=5a813668-7808-4d14-9c9e-1822a5070ee3",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fiphone%20usb%20pd.jpg?alt=media&token=5a813668-7808-4d14-9c9e-1822a5070ee3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fiphone%20usb%20pd.jpg?alt=media&token=5a813668-7808-4d14-9c9e-1822a5070ee3"
+    ],
+    "description": "USB NAQİL İPHONE YENİ TİP ",
+    "available": "true"
+  },
+
+  {
+    "id": 34,
+    "name": "QULAQLIQ BLUETOOTH BÖYÜK HOCO W46",
+    "discounted": false,
+    "adminPrice": 13,
+    "userPrice": 23,
+    "price": 26,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20w46.jpg?alt=media&token=6ab07cd7-89ce-4b78-8a79-025478dff57c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20w46.jpg?alt=media&token=6ab07cd7-89ce-4b78-8a79-025478dff57c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20w46.jpg?alt=media&token=6ab07cd7-89ce-4b78-8a79-025478dff57c"
+    ],
+    "description": "SUPER DİZAYNA VƏ MÜKƏMMƏL SƏS EFFEKTİNƏ MALİK HOCO. SƏSİ ÇÖLƏ VERMİR  ",
+    "available": "true"
   }
 ]
