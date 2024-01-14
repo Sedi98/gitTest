@@ -1,164 +1,215 @@
-
 [
   {
     "id": 1,
-    "name": "LCD SAMSUNG A50 ORG ",
-    "price": 90,
-    "discounted":true,
-    "adminPrice": 80,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB MİKRO HOCO BX 51 ",
+    "discounted": false,
+    "price": 4,
+    "adminPrice": 1,
+    "userPrice": 3,
+    "cashback": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx51m.jpg?alt=media&token=d3213058-056e-4206-8c6f-5e63e9f7067b",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "SAMSUNG GALAXY A50 ORJINAL EKRAN",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx51m.jpg?alt=media&token=d3213058-056e-4206-8c6f-5e63e9f7067b",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx51m.jpg?alt=media&token=d3213058-056e-4206-8c6f-5e63e9f7067b"
+    ],
+    "description": "HOCO BX51 MİKRO USB NAQİL. UCUZ VƏ KEYFİYYƏTLİ MƏHSUL AXTARANLAR ÜÇÜN İDEALDIR. AŞAĞI BÜDCƏLİ ZƏİF SÜRƏTLƏ ENERJİ YIĞAN TELEFONLAR ÜÇÜN İDEALDIR",
     "available": "true"
   },
-  
+
   {
     "id": 2,
-    "name": "LCD SAMSUNG A04E ",
-    "price": 30,
-    "discounted":true,
-    "adminPrice": 25,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB TYPE-C HOCO X88  ",
+    "discounted": false,
+    "adminPrice": 1,
+    "price": 7,
+    "userPrice": 5,
+    "cashback": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "A04E EKRAN ",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c2.jpg?alt=media&token=ec493207-613f-4fa9-80e6-1b17713c7140"
+    ],
+    "description": "HOCO MƏHSULLARI SİZƏ PROFESSİONAL KEYFİYYƏT TƏKLİF EDİR. AĞ VƏ QARA RƏNGLƏRİ MÖVCUDDUR.  ",
     "available": "true"
   },
 
   {
     "id": 3,
-    "name": "LCD SAMSUNG A14 ",
-    "price": 35,
-    "discounted":true,
-    "adminPrice": 25,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB MİKRO HOCO X88  ",
+    "discounted": false,
+    "adminPrice": 1,
+    "price": 7,
+    "userPrice": 5,
+    "cashback": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "A14 EKRAN",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c2.jpg?alt=media&token=ec493207-613f-4fa9-80e6-1b17713c7140"
+    ],
+    "description": "HOCO MƏHSULLARI SİZƏ PROFESSİONAL KEYFİYYƏT TƏKLİF EDİR. AĞ VƏ QARA RƏNGLƏRİ MÖVCUDDUR.  ",
     "available": "true"
   },
 
   {
     "id": 4,
-    "name": "LCD SAMSUNG A30 ",
-    "price": 45,
-    "discounted":false,
-    "adminPrice": 40,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB İPH LİGHTNİNG HOCO X88  ",
+    "discounted": false,
+    "adminPrice": 1,
+    "price": 7,
+    "userPrice": 5,
+    "cashback": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "IZAH",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c2.jpg?alt=media&token=ec493207-613f-4fa9-80e6-1b17713c7140"
+    ],
+    "description": "HOCO MƏHSULLARI SİZƏ PROFESSİONAL KEYFİYYƏT TƏKLİF EDİR. AĞ VƏ QARA RƏNGLƏRİ MÖVCUDDUR.  ",
     "available": "true"
   },
 
   {
     "id": 5,
-    "name": "LCD SAMSUNG A52 ORG ",
-    "price": 140,
-    "discounted":false,
-    "adminPrice": 130,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB TYPE-C DENMEN D01T ",
+    "discounted": false,
+    "adminPrice": 1,
+    "userPrice": 3,
+    "price": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01v.jpg?alt=media&token=741934a4-9e22-480e-b414-3157c3c88e1f",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "IZAH",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01v.jpg?alt=media&token=741934a4-9e22-480e-b414-3157c3c88e1f",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01v%202.webp?alt=media&token=87a9ae20-78a3-46d3-8dbe-79583f6d1c60",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01l%202.jpg?alt=media&token=cd17b72a-51bb-473d-93e1-7920a20f718c"
+    ],
+    "description": "HAMI TƏRƏFİNDƏN BİLİNƏN DENMEN USB NAQİLLƏRİ GÜNDƏLİK İSTİFADƏ ÜÇÜN NƏZƏRDƏ TUTULUB. AŞAĞI BÜDCƏLİ TELEFONLAR ÜÇÜN DEYİL",
     "available": "true"
   },
 
   {
     "id": 6,
-    "name": "LCD SAMSUNG A32 ORG ",
-    "price": 125,
-    "discounted":false,
-    "adminPrice": 115,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB İPH LİGHTNİNG DENMEN D01L ",
+    "discounted": false,
+    "adminPrice": 1,
+    "userPrice": 3,
+    "price": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01v.jpg?alt=media&token=741934a4-9e22-480e-b414-3157c3c88e1f",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "IZAH",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01v.jpg?alt=media&token=741934a4-9e22-480e-b414-3157c3c88e1f",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01v%202.webp?alt=media&token=87a9ae20-78a3-46d3-8dbe-79583f6d1c60",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fd01l%202.jpg?alt=media&token=cd17b72a-51bb-473d-93e1-7920a20f718c"
+    ],
+    "description": "HAMI TƏRƏFİNDƏN BİLİNƏN DENMEN USB NAQİLLƏRİ GÜNDƏLİK İSTİFADƏ ÜÇÜN NƏZƏRDƏ TUTULUB. AŞAĞI BÜDCƏLİ TELEFONLAR ÜÇÜN DEYİL",
     "available": "true"
   },
 
   {
     "id": 7,
-    "name": "LCD SAMSUNG A6 PLUS ",
-    "price": 60,
-    "discounted":true,
-    "adminPrice": 55,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB TYPE-C XİAOMİ TURBO ORGİNAL ",
+    "discounted": false,
+    "adminPrice": 4,
+    "userPrice": 10,
+    "price": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fmi%20turbo.jpg?alt=media&token=1665a04a-a161-4d2f-a24b-5e2796d5f767",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "IZAH",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fmi%20turbo.jpg?alt=media&token=1665a04a-a161-4d2f-a24b-5e2796d5f767",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fmi%20turbo%202.jpg?alt=media&token=67af4d70-89d5-4e4e-9560-4ed08f801efa"
+    ],
+    "description": "XİAOMİ TURBO ŞARJ DƏSTƏKLƏYƏN USB. ORJİNAL ADAPTERLƏ BİRLİKDƏ İSTİFADƏ EDİLDİKDƏ TURBO ENERJİ DOLDURMA DƏSTƏKLƏYİR ",
     "available": "true"
   },
 
   {
     "id": 8,
-    "name": "LCD SAMSUNG A20 ORG ",
-    "price": 75,
-    "discounted":false,
-    "adminPrice": 67,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB TYPE-C BOROFONE BX54 ",
+    "discounted": false,
+    "adminPrice": 2,
+    "userPrice": 6,
+    "price": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx%2054%20c.jpg?alt=media&token=c21d8f3f-6217-4e13-b3ce-3cec9d095aa0",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "SAMSUNG GALAXY A20 ORJINAL EKRAN",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx%2054%20c.jpg?alt=media&token=c21d8f3f-6217-4e13-b3ce-3cec9d095aa0",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx54%20c%202.webp?alt=media&token=b84e1a9a-0f23-4fc0-893c-ee52bacbb964"
+    ],
+    "description": "BOROFONE BX54 KƏNDİR FORMASINDA OLAN USB NAQİLDİR. BU MƏHSUL ADİ USB NAQİLLƏRDƏN FƏRQLİ OLARAQ DAHA DÖZÜMLÜDÜR",
     "available": "true"
   },
 
   {
     "id": 9,
-    "name": "LCD SAMSUNG A31 ORG ",
-    "price": 100,
-    "discounted":false,
-    "adminPrice": 95,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB MİKRO JOKADE JA010 ",
+    "discounted": false,
+    "adminPrice": 1,
+    "userPrice": 3,
+    "price": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjokade%20ja010%20m.jpg?alt=media&token=7b4e7e00-d2db-4863-bb1a-6f5d1d9c5916",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "IZAH",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjokade%20ja010%20m.jpg?alt=media&token=7b4e7e00-d2db-4863-bb1a-6f5d1d9c5916",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjokade%20ja010%20m%202.jpg?alt=media&token=0d4421f5-1aa3-4704-a101-51880ec28667"
+    ],
+    "description": "USB NAQİL JOKADE JA010 SADƏ USB NAQİL",
     "available": "true"
   },
 
   {
     "id": 10,
-    "name": "LCD SAMSUNG A03 ",
-    "price": 30,
-    "discounted":false,
-    "adminPrice": 23,
-    "userPrice": 25,
-    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
+    "name": "USB TYPE-C HOCO X87",
+    "discounted": false,
+    "adminPrice": 10,
+    "userPrice": 8,
+    "price": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x87%20c.webp?alt=media&token=e3dafda1-7f3f-43db-a056-d59787c18942",
     "images": [
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef",
-    "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/zapcast%2Fphonescreen1.webp?alt=media&token=b05d668d-cb54-40de-bcf4-88cec334faef"
-  ],
-    "description": "IZAH",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x87%20c.webp?alt=media&token=e3dafda1-7f3f-43db-a056-d59787c18942",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x87%20c%202.webp?alt=media&token=85e9756e-3d23-41a5-8f24-23b0b6d2b128"
+    ],
+    "description": "SUPER KEYFİYYƏTƏ MALİK USB NAQİL. SİLİKON MATERİALDAN HAZIRLANIB VƏ BUDA YANMAYA, HƏDDƏN ARTIQ İSTİYƏ VƏ SOYUQA DAVAMLI OLDUĞUNU GÖSTƏRİR.SÜRƏTLİ ENERJİ DOLDURMA DƏSTƏKLƏYİR",
+    "available": "true"
+  },
+
+  {
+    "id": 11,
+    "name": "USB İPH LİGHTNİNG HOCO X99",
+    "discounted": false,
+    "adminPrice": 10,
+    "userPrice": 8,
+    "price": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x99%20l.webp?alt=media&token=f2856cf6-9133-4e93-a27d-7e1f0472d0fc",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x99%20l.webp?alt=media&token=f2856cf6-9133-4e93-a27d-7e1f0472d0fc",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x99%20l%202.jpg?alt=media&token=f285de27-9ed7-41bc-9467-fa3ef4bca9a9"
+    ],
+    "description": "KEYFİYYƏTLİ VƏ DAVAMLI MATERİALDAN HAZIRLANIB. SUPER DİZAYNA MALİKDİR Kİ BU DA MƏHSULU VAZ KEÇİLMƏZ EDİR",
+    "available": "true"
+  },
+
+  {
+    "id": 12,
+    "name": "USB MİKRO DADU TPE 4",
+    "discounted": false,
+    "adminPrice": 12,
+    "userPrice": 10,
+    "price": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%202.png?alt=media&token=44dbc688-4f54-4b83-a5af-f853f9ee63d6"
+    ],
+    "description": "KEYFİYYƏTLİ VƏ DAVAMLI MATERİALDAN HAZIRLANIB. SUPER DİZAYNA MALİKDİR Kİ BU DA MƏHSULU VAZ KEÇİLMƏZ EDİR",
+    "available": "true"
+  },
+
+  {
+    "id": 13,
+    "name": "USB MİKRO DADU TPE 4",
+    "discounted": false,
+    "adminPrice": 12,
+    "userPrice": 10,
+    "price": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%202.png?alt=media&token=44dbc688-4f54-4b83-a5af-f853f9ee63d6"
+    ],
+    "description": "KEYFİYYƏTLİ VƏ DAVAMLI MATERİALDAN TPE 4 HAZIRLANIB.",
     "available": "true"
   }
-
-
 ]
