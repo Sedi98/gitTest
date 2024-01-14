@@ -6,7 +6,6 @@
     "price": 4,
     "adminPrice": 1,
     "userPrice": 3,
-    "cashback": 1,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx51m.jpg?alt=media&token=d3213058-056e-4206-8c6f-5e63e9f7067b",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbx51m.jpg?alt=media&token=d3213058-056e-4206-8c6f-5e63e9f7067b",
@@ -23,7 +22,6 @@
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
-    "cashback": 1,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
@@ -40,7 +38,6 @@
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
-    "cashback": 1,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
@@ -57,7 +54,6 @@
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
-    "cashback": 1,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fx88%20c.jpg?alt=media&token=408671a1-8099-410e-bc77-625940209178",
@@ -153,9 +149,9 @@
     "id": 10,
     "name": "USB TYPE-C HOCO X87",
     "discounted": false,
-    "adminPrice": 10,
+    "adminPrice": 3,
     "userPrice": 8,
-    "price": 3,
+    "price": 10,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x87%20c.webp?alt=media&token=e3dafda1-7f3f-43db-a056-d59787c18942",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x87%20c.webp?alt=media&token=e3dafda1-7f3f-43db-a056-d59787c18942",
@@ -169,9 +165,9 @@
     "id": 11,
     "name": "USB İPH LİGHTNİNG HOCO X99",
     "discounted": false,
-    "adminPrice": 10,
+    "adminPrice": 3,
     "userPrice": 8,
-    "price": 3,
+    "price": 10,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x99%20l.webp?alt=media&token=f2856cf6-9133-4e93-a27d-7e1f0472d0fc",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20x99%20l.webp?alt=media&token=f2856cf6-9133-4e93-a27d-7e1f0472d0fc",
@@ -185,9 +181,9 @@
     "id": 12,
     "name": "USB MİKRO DADU TPE 4",
     "discounted": false,
-    "adminPrice": 12,
+    "adminPrice": 3,
     "userPrice": 10,
-    "price": 2,
+    "price": 10,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
@@ -201,15 +197,305 @@
     "id": 13,
     "name": "USB MİKRO DADU TPE 4",
     "discounted": false,
-    "adminPrice": 12,
+    "adminPrice": 2,
     "userPrice": 10,
-    "price": 2,
+    "price": 12,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%201.png?alt=media&token=620b8b4f-82b5-4a1a-a382-253a8a49d771",
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20m%202.png?alt=media&token=44dbc688-4f54-4b83-a5af-f853f9ee63d6"
     ],
     "description": "KEYFİYYƏTLİ VƏ DAVAMLI MATERİALDAN TPE 4 HAZIRLANIB.",
+    "available": "true"
+  },
+
+  {
+    "id": 14,
+    "name": "USB MİKRO JOKADE JA014",
+    "discounted": false,
+    "adminPrice": 2,
+    "userPrice": 10,
+    "price": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjjokade%20ja014%20m.jpg?alt=media&token=b927f84f-39ee-4063-8cbd-6742446e4605",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjjokade%20ja014%20m.jpg?alt=media&token=b927f84f-39ee-4063-8cbd-6742446e4605",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjjokade%20ja014%20m.jpg?alt=media&token=b927f84f-39ee-4063-8cbd-6742446e4605"
+    ],
+    "description": "KEYFİYYƏTLİ KƏNDİRVARİ MATERİALDAN HAZIRLANDIĞI ÜÇÜN QIRILMAĞA QARŞI DÖZÜMLÜDÜR.",
+    "available": "true"
+  },
+
+  {
+    "id": 15,
+    "name": "USB MİKRO İŞIQLI DENMEN D25",
+    "discounted": false,
+    "adminPrice": 2,
+    "userPrice": 6,
+    "price": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%201.jpg?alt=media&token=13779507-1c2f-449c-af60-8d089f68a8ee",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%201.jpg?alt=media&token=13779507-1c2f-449c-af60-8d089f68a8ee",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%202.png?alt=media&token=ac5c5821-b18f-4e24-9a5f-f9a0349e8298"
+    ],
+    "description": "HAMININ AXTARDIĞI İŞIQ EFFEKTLİ ENERJİ DOLDURMA KABELİ DENMEN D25.",
+    "available": "true"
+  }
+  ,
+
+  {
+    "id": 16,
+    "name": "USB TYPE-C İŞIQLI DENMEN D25",
+    "discounted": false,
+    "adminPrice": 2,
+    "userPrice": 6,
+    "price": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%201.jpg?alt=media&token=13779507-1c2f-449c-af60-8d089f68a8ee",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%201.jpg?alt=media&token=13779507-1c2f-449c-af60-8d089f68a8ee",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%202.png?alt=media&token=ac5c5821-b18f-4e24-9a5f-f9a0349e8298"
+    ],
+    "description": "HAMININ AXTARDIĞI İŞIQ EFFEKTLİ ENERJİ DOLDURMA KABELİ DENMEN D25.",
+    "available": "true"
+  }
+  ,
+
+  {
+    "id": 17,
+    "name": "USB İPH LİGHTNİNG İŞIQLI DENMEN D25",
+    "discounted": false,
+    "adminPrice": 2,
+    "userPrice": 6,
+    "price": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%201.jpg?alt=media&token=13779507-1c2f-449c-af60-8d089f68a8ee",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%201.jpg?alt=media&token=13779507-1c2f-449c-af60-8d089f68a8ee",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdenmen%20d25%202.png?alt=media&token=ac5c5821-b18f-4e24-9a5f-f9a0349e8298"
+    ],
+    "description": "HAMININ AXTARDIĞI İŞIQ EFFEKTLİ ENERJİ DOLDURMA KABELİ DENMEN D25.",
+    "available": "true"
+  },
+
+  {
+    "id": 18,
+    "name": "USB İPH LİGHTNİNG DADU OD4 ",
+    "discounted": false,
+    "adminPrice": 4,
+    "userPrice": 10,
+    "price": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20pd%20l.jpg?alt=media&token=2ad2e661-d8ba-4759-a6ca-a141af365991",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20pd%20l.jpg?alt=media&token=2ad2e661-d8ba-4759-a6ca-a141af365991",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fdadu%20pd%20l.jpg?alt=media&token=2ad2e661-d8ba-4759-a6ca-a141af365991"
+    ],
+    "description": "KEYFİYYƏTLİ MATERİALDAN HAZIRLANMIŞ DADU İPH USB NAQİLLƏRİ.",
+    "available": "true"
+  },
+
+  {
+    "id": 19,
+    "name": "ADAPTER DƏST MİKRO HOCO CS11A",
+    "discounted": false,
+    "adminPrice": 3,
+    "userPrice": 6,
+    "price": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20cs11a.jpg?alt=media&token=d23efbda-7b12-4de9-af84-be274a6c2a5c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20cs11a.jpg?alt=media&token=d23efbda-7b12-4de9-af84-be274a6c2a5c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20cs11a.jpg?alt=media&token=d23efbda-7b12-4de9-af84-be274a6c2a5c"
+    ],
+    "description": "12 VATT ENERJİ DOLDURMA VƏ USB NAQİLLƏ BİRLİKDƏ VERİLİR.",
+    "available": "true"
+  },
+
+  {
+    "id": 20,
+    "name": "ADAPTER DƏST TYPE-C HOCO C106A",
+    "discounted": false,
+    "adminPrice": 3,
+    "userPrice": 6,
+    "price": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c106a%20c.jpg?alt=media&token=5001a394-2a64-426b-8a32-455e066748e9",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c106a%20c.jpg?alt=media&token=5001a394-2a64-426b-8a32-455e066748e9",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c106a%20c.jpg?alt=media&token=5001a394-2a64-426b-8a32-455e066748e9"
+    ],
+    "description": "12 VATT ENERJİ DOLDURMA VƏ USB NAQİLLƏ BİRLİKDƏ VERİLİR.",
+    "available": "true"
+  },
+
+  {
+    "id": 21,
+    "name": "ADAPTER DƏST TYPE-C HOCO C109A",
+    "discounted": false,
+    "adminPrice": 5,
+    "userPrice": 10,
+    "price": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c109a%20%20dest%20c.jpg?alt=media&token=db7c973a-7039-4ddb-a5b0-7c7d2c30d303",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c109a%20%20dest%20c.jpg?alt=media&token=db7c973a-7039-4ddb-a5b0-7c7d2c30d303",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c109a%20%20dest%20c.jpg?alt=media&token=db7c973a-7039-4ddb-a5b0-7c7d2c30d303"
+    ],
+    "description": "18 VATT SÜRƏTLİ ENERJİ DOLDURMA VƏ USB NAQİLLƏ BİRLİKDƏ VERİLİR.",
+    "available": "true"
+  },
+
+  {
+    "id": 22,
+    "name": "ADAPTER DƏST TYPE-C HOCO C98A",
+    "discounted": false,
+    "adminPrice": 5,
+    "userPrice": 10,
+    "price": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c98a%20dest.jpg?alt=media&token=f05ec971-5f98-48d5-93b3-bb3a743f777a",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c98a%20dest.jpg?alt=media&token=f05ec971-5f98-48d5-93b3-bb3a743f777a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fhoco%20c98a%20dest.jpg?alt=media&token=f05ec971-5f98-48d5-93b3-bb3a743f777a"
+    ],
+    "description": "18 VATT SÜRƏTLİ ENERJİ DOLDURMA VƏ USB NAQİLLƏ BİRLİKDƏ VERİLİR.",
+    "available": "true"
+  },
+
+  {
+    "id": 23,
+    "name": "ADAPTER TƏK BAŞLIQ HOCO C109A",
+    "discounted": false,
+    "adminPrice": 4,
+    "userPrice": 8,
+    "price": 10,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fc1009a%20tek.jpg?alt=media&token=664ad234-980a-422c-8d82-1f0c035b87a4",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fc1009a%20tek.jpg?alt=media&token=664ad234-980a-422c-8d82-1f0c035b87a4",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fc1009a%20tek.jpg?alt=media&token=664ad234-980a-422c-8d82-1f0c035b87a4"
+    ],
+    "description": "18 VATT SÜRƏTLİ ENERJİ DOLDURMA TƏMİN EDİR.",
+    "available": "true"
+  },
+
+  {
+    "id": 24,
+    "name": "ADAPTER TƏK BAŞLIQ APPLE B CLASS",
+    "discounted": false,
+    "adminPrice": 5,
+    "userPrice": 15,
+    "price": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04"
+    ],
+    "description": "APPLE 20 VATT ENERJİ DOLDURMA BAŞLIĞI .",
+    "available": "true"
+  },
+
+  {
+    "id": 25,
+    "name": "ADAPTER TƏK BAŞLIQ APPLE A CLASS",
+    "discounted": false,
+    "adminPrice": 9,
+    "userPrice": 20,
+    "price": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04"
+    ],
+    "description": "APPLE 20 VATT ENERJİ DOLDURMA BAŞLIĞI .",
+    "available": "true"
+  },
+
+  {
+    "id": 26,
+    "name": "ADAPTER TƏK BAŞLIQ APPLE DUBAY ORJİNALI",
+    "discounted": false,
+    "adminPrice": 15,
+    "userPrice": 25,
+    "price": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04"
+    ],
+    "description": "APPLE 20 VATT ENERJİ DOLDURMA BAŞLIĞI .",
+    "available": "true"
+  },
+
+  {
+    "id": 27,
+    "name": "ADAPTER TƏK BAŞLIQ APPLE 35 VATT",
+    "discounted": false,
+    "adminPrice": 25,
+    "userPrice": 40,
+    "price": 50,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04"
+    ],
+    "description": "APPLE 35 VATT ENERJİ DOLDURMA BAŞLIĞI .",
+    "available": "true"
+  },
+
+  {
+    "id": 28,
+    "name": "ADAPTER TƏK BAŞLIQ APPLE 20 VATT ORJİNAL ",
+    "discounted": false,
+    "adminPrice": 25,
+    "userPrice": 45,
+    "price": 50,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fapple%20basliq.webp?alt=media&token=ac1b57b8-d3e8-478b-8ca0-dd2b3e1ccc04"
+    ],
+    "description": "APPLE 20 VATT ENERJİ DOLDURMA BAŞLIĞI .",
+    "available": "true"
+  },
+
+  {
+    "id": 29,
+    "name": "ADAPTER TƏK BAŞLIQ SAMSUNG A CLASS",
+    "discounted": false,
+    "adminPrice": 7,
+    "userPrice": 15,
+    "price": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbasliq%20samsung%2025w.jpg?alt=media&token=7ef61cbd-5a39-4ff8-8023-d81dca4701ef",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbasliq%20samsung%2025w.jpg?alt=media&token=7ef61cbd-5a39-4ff8-8023-d81dca4701ef",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbasliq%20samsung%2025w.jpg?alt=media&token=7ef61cbd-5a39-4ff8-8023-d81dca4701ef"
+    ],
+    "description": "SAMSUNG 25 VATT ENERJİ DOLDURMA BAŞLIĞI .",
+    "available": "true"
+  },
+
+  {
+    "id": 30,
+    "name": "ADAPTER TƏK BAŞLIQ SAMSUNG ORJİNAL",
+    "discounted": false,
+    "adminPrice": 15,
+    "userPrice": 25,
+    "price": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbasliq%20samsung%2025w.jpg?alt=media&token=7ef61cbd-5a39-4ff8-8023-d81dca4701ef",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbasliq%20samsung%2025w.jpg?alt=media&token=7ef61cbd-5a39-4ff8-8023-d81dca4701ef",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fbasliq%20samsung%2025w.jpg?alt=media&token=7ef61cbd-5a39-4ff8-8023-d81dca4701ef"
+    ],
+    "description": "SAMSUNG 25 VATT ENERJİ DOLDURMA BAŞLIĞI ORJİNAL .",
+    "available": "true"
+  },
+
+  {
+    "id": 31,
+    "name": "ADAPTER TƏK BAŞLIQ XO 30 VATT ŞƏFFAF",
+    "discounted": false,
+    "adminPrice": 7,
+    "userPrice": 20,
+    "price": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fxo%2030w%20ce05.jpg?alt=media&token=16f53770-8cc5-4863-ab4d-2b50b4583557",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fxo%2030w%20ce05.jpg?alt=media&token=16f53770-8cc5-4863-ab4d-2b50b4583557",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fxo%2030w%20ce05.jpg?alt=media&token=16f53770-8cc5-4863-ab4d-2b50b4583557"
+    ],
+    "description": "XO 30 VATT ENERJİ DOLDURMA BAŞLIĞI.ŞƏFFAF VƏ GÖZƏL DİZAYN. HƏM TYPE-C HƏM USB-A ÇIXIŞI MÖVCUDDUR. 30VATT SÜRƏTLİ ENERJİ DOLDURMASI TƏMİN EDİR",
     "available": "true"
   }
 ]
