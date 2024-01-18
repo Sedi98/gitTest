@@ -18,7 +18,7 @@
   {
     "id": 2,
     "name": "USB TYPE-C HOCO X88  ",
-    "discounted": false,
+    "discounted": true,
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "name": "USB MİKRO HOCO X88  ",
-    "discounted": false,
+    "discounted": true,
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -50,7 +50,7 @@
   {
     "id": 4,
     "name": "USB İPH LİGHTNİNG HOCO X88  ",
-    "discounted": false,
+    "discounted": true,
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -546,4 +546,6 @@
     "description": "SUPER DİZAYNA VƏ MÜKƏMMƏL SƏS EFFEKTİNƏ MALİK HOCO. SƏSİ ÇÖLƏ VERMİR  ",
     "available": "true"
   }
+  
+
 ]
