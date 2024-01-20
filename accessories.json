@@ -239,9 +239,7 @@
     ],
     "description": "HAMININ AXTARDIĞI İŞIQ EFFEKTLİ ENERJİ DOLDURMA KABELİ DENMEN D25.",
     "available": "true"
-  }
-  ,
-
+  },
   {
     "id": 16,
     "name": "USB TYPE-C İŞIQLI DENMEN D25",
@@ -256,9 +254,7 @@
     ],
     "description": "HAMININ AXTARDIĞI İŞIQ EFFEKTLİ ENERJİ DOLDURMA KABELİ DENMEN D25.",
     "available": "true"
-  }
-  ,
-
+  },
   {
     "id": 17,
     "name": "USB İPH LİGHTNİNG İŞIQLI DENMEN D25",
@@ -545,7 +541,491 @@
     ],
     "description": "SUPER DİZAYNA VƏ MÜKƏMMƏL SƏS EFFEKTİNƏ MALİK HOCO. SƏSİ ÇÖLƏ VERMİR  ",
     "available": "true"
-  }
-  
+  },
 
+
+  
+  {
+    "id": 35,
+    "name": "RAF Buxarlı Seramik Ütü R1246",
+    "price": 30,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683"
+    ],
+
+    "description": "RAF Buxarlı sermaik ütü 2200 Vatt güc ilə sizə keyfiyyətli ütüləmə vəd edir. Həmçinin seramik altlıq vasitəsi ilə ütü zamanı altlıq paltarlara yapışmır.Güclü buxar vasitəsi ilə bütün qırışları yox edir. ",
+    "available": "true"
+  },
+  {
+    "id": 36,
+    "name": "RAF Elektrikli Çaydan Dəsti R7899",
+    "price": 40,
+    "adminPrice": 27,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7899.jpg?alt=media&token=215c62bd-9cbc-4800-9e29-1eb831bcd914",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7899.jpg?alt=media&token=215c62bd-9cbc-4800-9e29-1eb831bcd914",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7899.jpg?alt=media&token=215c62bd-9cbc-4800-9e29-1eb831bcd914",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7899.jpg?alt=media&token=215c62bd-9cbc-4800-9e29-1eb831bcd914"
+    ],
+    "description": "2200 Vt Güc Avtomatik Sönmə Funksiyalı Polad Çaydan.RAF Elektrikli çaydan dəsti 2000 Vt gücü və 2,3 litrə qədər qab tutumu sayəsində suyun tez qaynadılmasına nail olur.Paslanmayan poladdan hazırlanmışdır, rahatlıqla istifadə edə bilərsiniz. İsitmə sürətlidir, təxminən 3-4 dəqiqəyə qaynayır, vaxta və elektrik enerjisinə qənaət edir.",
+    "available": "true"
+  },
+  {
+    "id": 37,
+    "name": "Doğrayıcı RAF R7005",
+    "price": 40,
+    "adminPrice": 27,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/dograyici%20r7006.jpg?alt=media&token=fe02eee5-4328-4cfc-8a80-fe72571ef919",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/dograyici%20r7006.jpg?alt=media&token=fe02eee5-4328-4cfc-8a80-fe72571ef919",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/dograyici%20r7006.jpg?alt=media&token=fe02eee5-4328-4cfc-8a80-fe72571ef919",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/dograyici%20r7006.jpg?alt=media&token=fe02eee5-4328-4cfc-8a80-fe72571ef919"
+    ],
+    "description": "RAF doğrayıcı sayəsində, müxtəlif yeməklər üçün inqridentlər hazırlaya, uşaqlar üçün kartof püresi və böyüklər üçün pəhriz yeməkləri hazırlaya bilərsiniz.",
+    "available": "true"
+  },
+  {
+    "id": 38,
+    "name": "Air Fryer (fritoz) RAF R5330",
+    "price": 145,
+    "adminPrice": 110,
+    "userPrice": 130,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/fritoz%20r5330.jpg?alt=media&token=6e917474-b58a-4020-9dcb-7692b9c0c71a",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/fritoz%20r5330.jpg?alt=media&token=6e917474-b58a-4020-9dcb-7692b9c0c71a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/fritoz%20r5330.jpg?alt=media&token=6e917474-b58a-4020-9dcb-7692b9c0c71a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/fritoz%20r5330.jpg?alt=media&token=6e917474-b58a-4020-9dcb-7692b9c0c71a"
+    ],
+    "description": "Çoxfunksiyalı hava fritözü yapışmayan bişirmə səthinə sahibdir. Böyük 5.8L tutumu sayəsində siz ailəniz üçün yeməklər bişirə bilərsiniz.Ənənəvi qızartma avadanlıqlarından 80% daha az yağ istifadə edərək mükəmməl qızartmalar hazırlaya biləriniz",
+    "available": "true"
+  },
+  {
+    "id": 39,
+    "name": "Blender seti RAF R331 QARA",
+    "price": 50,
+    "adminPrice": 30,
+    "userPrice": 40,
+
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r331.jpg?alt=media&token=acf5c773-469b-4e18-bf1d-2341b90244cc",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r331.jpg?alt=media&token=acf5c773-469b-4e18-bf1d-2341b90244cc",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r331.jpg?alt=media&token=acf5c773-469b-4e18-bf1d-2341b90244cc",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r331.jpg?alt=media&token=acf5c773-469b-4e18-bf1d-2341b90244cc"
+    ],
+    "description": "Blender seti RAF R331 paslanmayan metaldan hazırlanmışdır. 2 ədəd sürət rejimi var. Buz qırma funksiyası YOXDUR.Qabın tutumu 500ml təşkil edir",
+    "available": "true"
+  },
+  {
+    "id": 40,
+    "name": "Blender seti RAF R331 AĞ",
+    "price": 50,
+    "adminPrice": 33,
+    "userPrice": 40,
+
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r331ag.jpg?alt=media&token=d92bc044-2544-4097-ade5-13fb73c8ba6e",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r331ag.jpg?alt=media&token=d92bc044-2544-4097-ade5-13fb73c8ba6e",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r331ag.jpg?alt=media&token=d92bc044-2544-4097-ade5-13fb73c8ba6e",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r331ag.jpg?alt=media&token=d92bc044-2544-4097-ade5-13fb73c8ba6e"
+    ],
+    "description": "Blender seti RAF R331 paslanmayan metaldan hazırlanmışdır. 2 ədəd sürət rejimi var. Buz qırma funksiyası YOXDUR.Qabın tutumu 500ml təşkil edir",
+    "available": "true"
+  },
+  {
+    "id": 41,
+    "name": "Qəhvəüyüdən RAF R7124",
+    "price": 30,
+    "adminPrice": 20,
+    "userPrice": 27,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/qehveuyuden%20r.7124.jpg?alt=media&token=a1da312e-1b46-48e6-9eff-dd07ee0dc3f3",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/qehveuyuden%20r.7124.jpg?alt=media&token=a1da312e-1b46-48e6-9eff-dd07ee0dc3f3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/qehveuyuden%20r.7124.jpg?alt=media&token=a1da312e-1b46-48e6-9eff-dd07ee0dc3f3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/qehveuyuden%20r.7124.jpg?alt=media&token=a1da312e-1b46-48e6-9eff-dd07ee0dc3f3"
+    ],
+    "description": "200W güclü performansa malikdir.Üyütmə dərəcəsinin tənzimlənməsi funskiyası mövcuddur.Paslanmayan materialdan hazırlanmış polad bıçaqlar",
+    "available": "true"
+  },
+  {
+    "id": 42,
+    "name": "Blender RAF R 295",
+    "price": 45,
+    "adminPrice": 31,
+    "userPrice": 40,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r295.jpg?alt=media&token=b2c4d380-fc40-4453-bf7d-72a3b08ea40a",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r295.jpg?alt=media&token=b2c4d380-fc40-4453-bf7d-72a3b08ea40a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r295.jpg?alt=media&token=b2c4d380-fc40-4453-bf7d-72a3b08ea40a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/blender%20r295.jpg?alt=media&token=b2c4d380-fc40-4453-bf7d-72a3b08ea40a"
+    ],
+    "description": "Keyfiyyətli blender RAF r295. Həddindən artıq istidən qorunma funksiyası mövcuddur. Təhlükəsizlik kilidləmə açarı sizi hər hansı xoşagəlməz hadisədən muhafizə edir.1000 Vatt gücə malikdir. 5 ədəd sürət rejimi mövcuddur. Buz qırma funksiyası var. Paslanmayan polad bıçaqlardan istifadə olunmuşdur",
+    "available": "true"
+  },
+  {
+    "id": 43,
+    "name": "Ütü RAF R 1155",
+    "price": 60,
+    "adminPrice": 45,
+    "userPrice": 55,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1155.jpg?alt=media&token=4e1de820-369e-4573-af37-e9b3d0f7ab1c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1155.jpg?alt=media&token=4e1de820-369e-4573-af37-e9b3d0f7ab1c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1155.jpg?alt=media&token=4e1de820-369e-4573-af37-e9b3d0f7ab1c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1155.jpg?alt=media&token=4e1de820-369e-4573-af37-e9b3d0f7ab1c"
+    ],
+    "description": "Yeni RAF 1155 ütüsü vasitəsi ilə paltarlarınızı daha rahat ütüləyə biləcəksiniz. Yapışmayan keramika altlığa malikdir.2800 vatt gücü var. Su püskürtmə və buxar püskürtmə kimi funskiyaları movcuddur və su tutumu 300ml təşkil edir",
+    "available": "true"
+  },
+  {
+    "id": 44,
+    "name": "Ütü RAF R 1248R",
+    "price": 40,
+    "adminPrice": 28,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/Electric-Iron-Portable-Mini-Clothing-steamer-Steam-Iron-for-Clothing-iron-Adjustable-iron-for-clothing-spray.jpg_.jpg?alt=media&token=6a8b0319-1a09-4eaa-b88f-d19f9de64683"
+    ],
+    "description": "2600 vatt gücə malikdir.Keramik altlığı mövcuddur. Su və buxar püskürtmə funksiyaları mövcuddur.Su tutumu 350ml təşkil edir. Naqil uzunluğu 1.5 metr",
+    "available": "true"
+  },
+  {
+    "id": 45,
+    "name": "Ütü RAF R 1106P",
+    "price": 20,
+    "adminPrice": 15,
+    "userPrice": 18,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1106p.jpg?alt=media&token=7464a20d-f248-4801-a6c2-4f3ad4c7422d",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1106p.jpg?alt=media&token=7464a20d-f248-4801-a6c2-4f3ad4c7422d",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1106p.jpg?alt=media&token=7464a20d-f248-4801-a6c2-4f3ad4c7422d",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r1106p.jpg?alt=media&token=7464a20d-f248-4801-a6c2-4f3ad4c7422d"
+    ],
+    "description": "1800 vatt gücə malikdir. Teflon altlıq ilə gəlir. Yalnız çəhrayı rəngi mövcuddur. 3 temperatur rejimi var su tutumu isə 200 ml təşkil edir",
+    "available": "true"
+  },
+  {
+    "id": 46,
+    "name": "Qəhvə bişirən RAF R 114",
+    "price": 85,
+    "adminPrice": 65,
+    "userPrice": 80,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r114.jpg?alt=media&token=f8e96af8-7c4c-42ad-b91e-da08347885ff",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r114.jpg?alt=media&token=f8e96af8-7c4c-42ad-b91e-da08347885ff",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r114.jpg?alt=media&token=f8e96af8-7c4c-42ad-b91e-da08347885ff",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r114.jpg?alt=media&token=f8e96af8-7c4c-42ad-b91e-da08347885ff"
+    ],
+    "description": "3.5 bar kofe bişirən cihaz. Temperatura nəzarət movcuddur.Müxtəlif rejimləri var.",
+    "available": "true"
+  },
+  {
+    "id": 47,
+    "name": "Şirəçəkən RAF R.2817R",
+    "price": 59,
+    "adminPrice": 42,
+    "userPrice": 50,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r2817.jpg?alt=media&token=4a2de24c-3cb6-48a4-a3cd-e9dbd087ce7a",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r2817.jpg?alt=media&token=4a2de24c-3cb6-48a4-a3cd-e9dbd087ce7a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r2817.jpg?alt=media&token=4a2de24c-3cb6-48a4-a3cd-e9dbd087ce7a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r2817.jpg?alt=media&token=4a2de24c-3cb6-48a4-a3cd-e9dbd087ce7a"
+    ],
+    "description": "1000 vatt gücə malik şirə çəkən. 1.5L şirə qabı tutumu mövcuddur. 3 sürət rejimi var və turbo rejimi mövcuddur.Qırmızı rəngdədir",
+    "available": "true"
+  },
+  {
+    "id": 48,
+    "name": "Blender RAF R 303B",
+    "price": 29,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r303black.jpg?alt=media&token=fa1d774f-06d2-4235-8a35-e688c930db4a",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r303black.jpg?alt=media&token=fa1d774f-06d2-4235-8a35-e688c930db4a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r303black.jpg?alt=media&token=fa1d774f-06d2-4235-8a35-e688c930db4a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r303black.jpg?alt=media&token=fa1d774f-06d2-4235-8a35-e688c930db4a"
+    ],
+    "description": "Blender RAF R 303B. Dəst deyil. 800 Vatt gücə malikdir",
+    "available": "true"
+  },
+  {
+    "id": 49,
+    "name": "Blender RAF R 311 ",
+    "price": 30,
+    "adminPrice": 20,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r311B.jpg?alt=media&token=92cf1f4c-22dc-492b-879c-53bb17bf11e6",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r311B.jpg?alt=media&token=92cf1f4c-22dc-492b-879c-53bb17bf11e6",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r311B.jpg?alt=media&token=92cf1f4c-22dc-492b-879c-53bb17bf11e6",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r311B.jpg?alt=media&token=92cf1f4c-22dc-492b-879c-53bb17bf11e6"
+    ],
+    "description": "Ağ, Qara və tünd göy rəngləri mövcuddur.Dəst deyil",
+    "available": "true"
+  },
+  {
+    "id": 50,
+    "name": "Ütü RAF R.1215J",
+    "price": 50,
+    "adminPrice": 33,
+    "userPrice": 45,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/1215j.jpg?alt=media&token=e7e1d2c3-8707-4742-a0f4-4e92790f0394",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/1215j.jpg?alt=media&token=e7e1d2c3-8707-4742-a0f4-4e92790f0394",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/1215j.jpg?alt=media&token=e7e1d2c3-8707-4742-a0f4-4e92790f0394",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/1215j.jpg?alt=media&token=e7e1d2c3-8707-4742-a0f4-4e92790f0394"
+    ],
+    "description": "izah yoxdur",
+    "available": "true"
+  },
+  {
+    "id": 51,
+    "name": "Çaydan RAF R7816",
+    "price": 20,
+    "adminPrice": 10,
+    "userPrice": 15,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7816.jpg?alt=media&token=39253f08-e163-4f2a-aabf-e0fac35f88a7",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7816.jpg?alt=media&token=39253f08-e163-4f2a-aabf-e0fac35f88a7",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7816.jpg?alt=media&token=39253f08-e163-4f2a-aabf-e0fac35f88a7",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7816.jpg?alt=media&token=39253f08-e163-4f2a-aabf-e0fac35f88a7"
+    ],
+    "description": "RAF elektrikli Çaydan paslanmayan materialdan hazırlanmışdır. LED İndiqatora malikdir.",
+    "available": "true"
+  },
+  {
+    "id": 52,
+    "name": "Çaydan RAF R 7829",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7829.jpg?alt=media&token=a0c540a0-37be-42fa-b004-a34132cb270c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7829.jpg?alt=media&token=a0c540a0-37be-42fa-b004-a34132cb270c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7829.jpg?alt=media&token=a0c540a0-37be-42fa-b004-a34132cb270c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7829.jpg?alt=media&token=a0c540a0-37be-42fa-b004-a34132cb270c"
+    ],
+    "description": "Fırlana bilən altlıq. Gizli qızdırıcı element. Avtomatik sönmə funksiyası.Həcmi 2L. Güc 2000 vatt. Material Paslanmayan polad",
+    "available": "true"
+  },
+  {
+    "id": 53,
+    "name": "Çaydan RAF R 7833 İnox",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7833.jpg?alt=media&token=f17a52a1-3a6d-4aca-8c9c-bd2cb3035420",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7833.jpg?alt=media&token=f17a52a1-3a6d-4aca-8c9c-bd2cb3035420",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7833.jpg?alt=media&token=f17a52a1-3a6d-4aca-8c9c-bd2cb3035420",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7833.jpg?alt=media&token=f17a52a1-3a6d-4aca-8c9c-bd2cb3035420"
+    ],
+    "description": "Şüşə şəffaf materiala malik elektrik çaydan. 2200 vatt gücə malikdir. LED işiq efekti var.",
+    "available": "true"
+  },
+  {
+    "id": 54,
+    "name": "Çaydan RAF R 7842",
+    "price": 35,
+    "adminPrice": 25,
+    "userPrice": 32,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7842.jpg?alt=media&token=52979858-912a-4561-95d1-e38cc0b874c3",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7842.jpg?alt=media&token=52979858-912a-4561-95d1-e38cc0b874c3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7842.jpg?alt=media&token=52979858-912a-4561-95d1-e38cc0b874c3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7842.jpg?alt=media&token=52979858-912a-4561-95d1-e38cc0b874c3"
+    ],
+    "description": "Səssiz qaynama, 360 dərəcə fırlanma, su səviyyəsinin göstəricisi. Təhlükəsizlik: stenddən çıxarıldıqda çaydan avtomatik sönür.Tutum 2.2L güc 2000Vatt. Rəng qızılı",
+    "available": "true"
+  },
+  {
+    "id": 55,
+    "name": "Çaydan RAF R 7856 AĞ",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856v.jpg?alt=media&token=9c8d7e11-9654-4968-a9a8-6bc0e113aed1",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856v.jpg?alt=media&token=9c8d7e11-9654-4968-a9a8-6bc0e113aed1",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856v.jpg?alt=media&token=9c8d7e11-9654-4968-a9a8-6bc0e113aed1",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856v.jpg?alt=media&token=9c8d7e11-9654-4968-a9a8-6bc0e113aed1"
+    ],
+    "description": "2200 vatt güc.Paslanmayan polad astar.Su tutumu 2.5L. LED göstərici yoxdur.",
+    "available": "true"
+  },
+  {
+    "id": 56,
+    "name": "Çaydan RAF R 7856 Çəhrayı",
+    "price": 25,
+    "adminPrice": 15,
+    "userPrice": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856p.jpg?alt=media&token=1537ca99-fa38-4234-b82d-51b8ff5e379c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856p.jpg?alt=media&token=1537ca99-fa38-4234-b82d-51b8ff5e379c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856p.jpg?alt=media&token=1537ca99-fa38-4234-b82d-51b8ff5e379c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7856p.jpg?alt=media&token=1537ca99-fa38-4234-b82d-51b8ff5e379c"
+    ],
+    "description": "2200 vatt güc.Paslanmayan polad astar.Su tutumu 2.5L. LED göstərici yoxdur.",
+    "available": "true"
+  },
+  {
+    "id": 57,
+    "name": "Çaydan RAF R 7916 Göy",
+    "price": 30,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916B.jpg?alt=media&token=95097cc0-265a-451f-9faa-6f7bfbe117c3",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916B.jpg?alt=media&token=95097cc0-265a-451f-9faa-6f7bfbe117c3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916B.jpg?alt=media&token=95097cc0-265a-451f-9faa-6f7bfbe117c3",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916B.jpg?alt=media&token=95097cc0-265a-451f-9faa-6f7bfbe117c3"
+    ],
+    "description": "Sabit temperatur: 60-70 dərəcə isti saxlama funskiyası.360 dərəcə fırlanan baza. BPA free material",
+    "available": "true"
+  },
+  {
+    "id": 58,
+    "name": "Çaydan RAF R 7916 Qızılı",
+    "price": 30,
+    "adminPrice": 19,
+    "userPrice": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916g.jpg?alt=media&token=2d7cabb0-6a04-4221-af2a-8549e9d39067",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916g.jpg?alt=media&token=2d7cabb0-6a04-4221-af2a-8549e9d39067",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916g.jpg?alt=media&token=2d7cabb0-6a04-4221-af2a-8549e9d39067",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7916g.jpg?alt=media&token=2d7cabb0-6a04-4221-af2a-8549e9d39067"
+    ],
+    "description": "Sabit temperatur: 60-70 dərəcə isti saxlama funskiyası.360 dərəcə fırlanan baza. BPA free material",
+    "available": "true"
+  },
+  {
+    "id": 59,
+    "name": "Çaydan RAF R 7930 QARA",
+    "price": 30,
+    "adminPrice": 25,
+    "userPrice": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930.webp?alt=media&token=e50f6f5c-8792-4680-9e53-da455376801c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930.webp?alt=media&token=e50f6f5c-8792-4680-9e53-da455376801c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930.webp?alt=media&token=e50f6f5c-8792-4680-9e53-da455376801c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930.webp?alt=media&token=e50f6f5c-8792-4680-9e53-da455376801c"
+    ],
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq ",
+    "available": "true"
+  },
+  {
+    "id": 60,
+    "name": "Çaydan RAF R 7930 AĞ",
+    "price": 30,
+    "adminPrice": 25,
+    "userPrice": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930vh.webp?alt=media&token=16d87f40-1ba2-4870-a344-51f30756a76f",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930vh.webp?alt=media&token=16d87f40-1ba2-4870-a344-51f30756a76f",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930vh.webp?alt=media&token=16d87f40-1ba2-4870-a344-51f30756a76f",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930vh.webp?alt=media&token=16d87f40-1ba2-4870-a344-51f30756a76f"
+    ],
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq ",
+    "available": "true"
+  },
+  {
+    "id": 61,
+    "name": "Çaydan RAF R 7930 Mavi",
+    "price": 30,
+    "adminPrice": 25,
+    "userPrice": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930b.webp?alt=media&token=de8c13a8-32da-4855-959b-5149d790c8cf",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930b.webp?alt=media&token=de8c13a8-32da-4855-959b-5149d790c8cf",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930b.webp?alt=media&token=de8c13a8-32da-4855-959b-5149d790c8cf",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7930b.webp?alt=media&token=de8c13a8-32da-4855-959b-5149d790c8cf"
+    ],
+    "description": "2000Vatt gücə malikdir. Led işıq göstəricisi yoxdur. 360 dərəcə fırlanan başlıq ",
+    "available": "true"
+  },
+  {
+    "id": 62,
+    "name": "Çaydan + Dəmlik RAF R 7898",
+    "price": 40,
+    "adminPrice": 27,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7898.jpg?alt=media&token=bde1e3d7-fc56-47c3-9c59-302fb59914a4",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7898.jpg?alt=media&token=bde1e3d7-fc56-47c3-9c59-302fb59914a4",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7898.jpg?alt=media&token=bde1e3d7-fc56-47c3-9c59-302fb59914a4",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7898.jpg?alt=media&token=bde1e3d7-fc56-47c3-9c59-302fb59914a4"
+    ],
+    "description": "Həm kettle həm də çaydan dəmlik kimi istifadə oluna bilər. Susuz işləməyə qarşı muhafizə sistemi mövcuddur. Çaydan 2l dəmlik isə 0.8L həcminə sahibdir. Temperaturu saxlama rejimi mövcuddur.",
+    "available": "true"
+  },
+  {
+    "id": 63,
+    "name": "Blender RAF R 7039",
+    "price": 25,
+    "adminPrice": 14,
+    "userPrice": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7039.jpg?alt=media&token=e8409e6f-52a7-40b0-a835-07954254d996",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7039.jpg?alt=media&token=e8409e6f-52a7-40b0-a835-07954254d996",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7039.jpg?alt=media&token=e8409e6f-52a7-40b0-a835-07954254d996",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7039.jpg?alt=media&token=e8409e6f-52a7-40b0-a835-07954254d996"
+    ],
+    "description": "izah yoxdur",
+    "available": "true"
+  },
+  {
+    "id": 64,
+    "name": "Blender RAF R 7040",
+    "price": 40,
+    "adminPrice": 23,
+    "userPrice": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7040.jpg?alt=media&token=66b4397b-7e67-4e11-9f14-a36a481a6df4",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7040.jpg?alt=media&token=66b4397b-7e67-4e11-9f14-a36a481a6df4",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7040.jpg?alt=media&token=66b4397b-7e67-4e11-9f14-a36a481a6df4",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r7040.jpg?alt=media&token=66b4397b-7e67-4e11-9f14-a36a481a6df4"
+    ],
+    "description": "Paslanmayan bıçaq materialdan hazırlanıb. 2l qab tutumuna malikdir. 800vatt gücü var.2 sürət rejimi var",
+    "available": "true"
+  },
+  {
+    "id": 65,
+    "name": "Elektrik Plitə RAF R 8020 2 Gözlü",
+    "price": 32,
+    "adminPrice": 21,
+    "userPrice": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8020.png?alt=media&token=e30c0fcd-2db0-48bc-ab25-2cc3adf9a4ac",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8020.png?alt=media&token=e30c0fcd-2db0-48bc-ab25-2cc3adf9a4ac",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8020.png?alt=media&token=e30c0fcd-2db0-48bc-ab25-2cc3adf9a4ac",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8020.png?alt=media&token=e30c0fcd-2db0-48bc-ab25-2cc3adf9a4ac"
+    ],
+    "description": "izah yoxdur",
+    "available": "true"
+  },
+  {
+    "id": 66,
+    "name": "Elektrik Plitə RAF R 8010 1 Gözlü",
+    "price": 18,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8010.jpg?alt=media&token=5e7fa58a-ea5f-48aa-af97-8f8414eb02dc",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8010.jpg?alt=media&token=5e7fa58a-ea5f-48aa-af97-8f8414eb02dc",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8010.jpg?alt=media&token=5e7fa58a-ea5f-48aa-af97-8f8414eb02dc",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8010.jpg?alt=media&token=5e7fa58a-ea5f-48aa-af97-8f8414eb02dc"
+    ],
+    "description": "izah yoxdur",
+    "available": "true"
+  }
 ]
