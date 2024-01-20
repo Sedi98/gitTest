@@ -24,5 +24,11 @@
   "password": "baku2023",
   "accType": "user",
   "cashback": "0"
+  },
+  {
+  "username": "nermin",
+  "password": "baku2024",
+  "accType": "admin",
+  "cashback": "1"
   }
 ]
