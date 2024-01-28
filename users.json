@@ -1,34 +1,50 @@
 [
- {
-  "username": "elnur",
+  {
+  "username": "elnur1980",
+  "name": "Elnur",
+  "lastName": "Binnətaliyev",
   "password": "baku2023",
-  "accType": "admin",
-  "cashback": "100"
-   
- 
+  "accType": "free",
+  "cashback": "0"
  },
   {
   "username": "admin",
+  "name": "Sədi",
+  "lastName": "Məmmədov",
   "password": "xirdalan135",
-   "accType": "admin",
-  "cashback": "25"
- },
-  {
-  "username": "mehemmed",
-  "password": "baku2023",
-   "accType": "user",
+  "accType": "premium",
   "cashback": "0"
  },
-  {
-  "username": "behruz",
-  "password": "baku2023",
-  "accType": "user",
-  "cashback": "0"
-  },
   {
   "username": "nermin",
-  "password": "baku2024",
-  "accType": "admin",
+  "name": "Nərmin",
+  "lastName": "Nəsibova",
+  "password": "baku2023",
+  "accType": "premium",
+  "cashback": "0"
+ },
+   {
+  "username": "novruzbabayev",
+  "name": "Novruz",
+  "lastName": "Babayev",
+  "password": "baku2023",
+  "accType": "free",
   "cashback": "1"
-  }
+ },
+   {
+  "username": "elsad1997",
+  "name": "Elşad",
+  "lastName": "Ağayev",
+  "password": "baku2024",
+  "accType": "plus",
+  "cashback": "0"
+ },
+  {
+  "username": "lime",
+  "name": "Emil",
+  "lastName": "Həsənli",
+  "password": "baku2023",
+  "accType": "plus",
+  "cashback": "0"
+ }
 ]
