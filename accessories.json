@@ -543,8 +543,6 @@
     "available": "true"
   },
 
-
-  
   {
     "id": 35,
     "name": "RAF Buxarlı Seramik Ütü R1246",
@@ -1026,6 +1024,172 @@
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/r8010.jpg?alt=media&token=5e7fa58a-ea5f-48aa-af97-8f8414eb02dc"
     ],
     "description": "izah yoxdur",
+    "available": "true"
+  },
+  {
+    "id": 67,
+    "name": "Powerbank Joyroom JR-QP191 10000mAh",
+    "price": 35,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20D-QP192%2020000mAh.jpg?alt=media&token=4f0ac867-30a7-486c-aa71-83451ecd7b1b",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20JR-QP191%2010000.jpg?alt=media&token=3386b0ae-1e06-4196-8237-38915a30104e",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20JR-QP191%2010000%202.jpg?alt=media&token=f330d297-3a95-49de-ba46-7dee370a9c32"
+    ],
+    "description": "10000 mah tutuma malikdir. Led ekranı vasitəsi ilə mövcud enerji faizini göstərir. 22 vatt turbo sürətli enerji doldurma funskiyasını dəstəkləyir",
+    "available": "true"
+  },
+  {
+    "id": 68,
+    "name": "Powerbank Joyroom D-QP192 20000mAh",
+    "price": 50,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20D-QP192%2020000mAh.jpg?alt=media&token=4f0ac867-30a7-486c-aa71-83451ecd7b1b",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20D-QP192%2020000mAh.jpg?alt=media&token=4f0ac867-30a7-486c-aa71-83451ecd7b1b",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20JR-QP191%2010000%202.jpg?alt=media&token=f330d297-3a95-49de-ba46-7dee370a9c32"
+    ],
+    "description": "20000 mah tutuma malikdir. Led ekranı vasitəsi ilə mövcud enerji faizini göstərir. 22 vatt turbo sürətli enerji doldurma funskiyasını dəstəkləyir",
+    "available": "true"
+  },
+  {
+    "id": 69,
+    "name": "Powerbank Joyroom QP190 mini 10000mAh",
+    "price": 35,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20QP190%20mini%2010000mAh.jpg?alt=media&token=119ead59-2bb6-423b-ae4d-52aa7c28ebcb",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20QP190%20mini%2010000mAh.jpg?alt=media&token=119ead59-2bb6-423b-ae4d-52aa7c28ebcb",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FPowerbank%20Joyroom%20QP190%20mini%2010000mAh%202.jpg?alt=media&token=81836727-245b-46d0-8fd9-2de43a386584"
+    ],
+    "description": "10000 mah tutuma malikdir. Led ekranı vasitəsi ilə mövcud enerji faizini göstərir. 20 vatt turbo sürətli enerji doldurma funskiyasını dəstəkləyir",
+    "available": "true"
+  },
+  {
+    "id": 70,
+    "name": "ADAPTER DƏST JOYROOM JR-TCF11 C PD 25W QARA",
+    "price": 30,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fadapter%20jr%20tcf11.webp?alt=media&token=cb473902-b3f6-4cbf-912c-508662c5d0fa",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fadapter%20jr%20tcf11.webp?alt=media&token=cb473902-b3f6-4cbf-912c-508662c5d0fa"
+    ],
+    "description": "25 VATT SUPER SÜRƏTLİ ENERJİ DOLDURMANI DƏSTƏKLƏYƏN ADAPTER DƏST USB NAQİLLƏ BİRLİKDƏ.YENİ MODEL SAMSUNG TELEFONLAR ÜÇÜN İDEALDIR.",
+    "available": "true"
+  },
+  {
+    "id": 71,
+    "name": "ADAPTER YƏK BAŞLIQ JOYROOM JR-TCF11 C PD 25W AĞ",
+    "price": 25,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjr%20tcf11%20tek.webp?alt=media&token=d38d6341-1f11-4c98-81fe-c58a4fa7446b",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjr%20tcf11%20tek.webp?alt=media&token=d38d6341-1f11-4c98-81fe-c58a4fa7446b"
+    ],
+    "description": "25 VATT SUPER SÜRƏTLİ ENERJİ DOLDURMANI DƏSTƏKLƏYƏN ADAPTER BAŞLIQ.YENİ MODEL SAMSUNG TELEFONLAR ÜÇÜN İDEALDIR.",
+    "available": "true"
+  },
+  {
+    "id": 72,
+    "name": "Adapter başlığı Joyroom PD 30W JR-TCF08EU QC",
+    "price": 30,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjr%20tcf08%20eu%201.webp?alt=media&token=d424140c-faf8-45cc-8b12-35bf3a6c141a",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjr%20tcf08%20eu%201.webp?alt=media&token=d424140c-faf8-45cc-8b12-35bf3a6c141a",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fjr%20tcf08%20eu%202.jpg?alt=media&token=f5d9035b-d11b-4207-ad92-19731104b87c"
+    ],
+    "description": "30 VATT SUPER SÜRƏTLİ ENERJİ DOLDURMANI DƏSTƏKLƏYƏN ADAPTER  BAŞLIQ.HƏDDƏN ARTIQ İSİNMƏYƏ VƏ YÜKSƏK GƏRGİNLİYƏ QARŞI MUHAFİZƏ SİSTEMİ MÖVCUDDUR.YANMAZ VƏ İSTİLİYƏ DAVAMLI MATERİALDAN HAZIRLANMIŞDIR. 30VATT PD VA 22 VATT USB-A ÇIXIŞI İLƏ ENERJİ ÖTÜRƏ BİLİR.",
+    "available": "true"
+  },
+  {
+    "id": 73,
+    "name": "Simsiz qulaqlıq Joyroom JR-T03S Jieli",
+    "price": 40,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FSimsiz%20qulaql%C4%B1q%20Joyroom%20JR-T03S%20Jieli.jpg?alt=media&token=eeb36507-322d-4de6-b56a-36980af3842d",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FSimsiz%20qulaql%C4%B1q%20Joyroom%20JR-T03S%20Jieli%202.jpg?alt=media&token=986018af-51b2-4b47-bdd9-8cefab1ef5e6",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FSimsiz%20qulaql%C4%B1q%20Joyroom%20JR-T03S%20Jieli%203.jpg?alt=media&token=24235b8e-936e-4443-9447-d06af3ce5c60"
+    ],
+    "description": "JOYROOM TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS 2 QULAQLIQLAR.6 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
+    "available": "true"
+  },
+  {
+    "id": 73,
+    "name": "Simsiz Qulaqlıq Joyroom JR-T03S Pro Jieli",
+    "price": 50,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FQulaql%C4%B1q%20Joyroom%20JR-T03S%20Pro%20Jieli.jpg?alt=media&token=007ba415-e062-49ca-acab-f47baa5a5db1",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FQulaql%C4%B1q%20Joyroom%20JR-T03S%20Pro%20Jieli.jpg?alt=media&token=007ba415-e062-49ca-acab-f47baa5a5db1",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FQulaql%C4%B1q%20Joyroom%20JR-T03S%20Pro%20Jieli%202.jpg?alt=media&token=1324ffa4-36f6-4829-b281-238d63cc6022"
+    ],
+    "description": "JOYROOM TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS PRO TİPLİ QULAQLIQLAR.3 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
+    "available": "true"
+  },
+  {
+    "id": 74,
+    "name": "Simsiz qulaqlıq Joyroom JR-T03S Plus Jieli",
+    "price": 45,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FSimsiz%20qulaql%C4%B1q%20Joyroom%20JR-T03S%20Plus%20Jieli%201.jpg?alt=media&token=e619635c-7b44-4863-a7bb-714d61c1e921",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FSimsiz%20qulaql%C4%B1q%20Joyroom%20JR-T03S%20Plus%20Jieli%201.jpg?alt=media&token=e619635c-7b44-4863-a7bb-714d61c1e921",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2FSimsiz%20qulaql%C4%B1q%20Joyroom%20JR-T03S%20Plus%20Jieli%202.jpg?alt=media&token=6f2edb17-9b16-4c93-a47f-2d6ce96b5130"
+    ],
+    "description": "JOYROOM TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS 3 TİPLİ QULAQLIQLAR.5 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
+    "available": "true"
+  },
+  {
+    "id": 74,
+    "name": "Simsiz Qulaqlıq Aspor A616",
+    "price": 35,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%202.webp?alt=media&token=a2ca0fdf-3753-4adb-858d-d56ae7574b7c",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%202.webp?alt=media&token=a2ca0fdf-3753-4adb-858d-d56ae7574b7c",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%202%20.2.jpg?alt=media&token=0518fdd8-212e-48ee-b472-6de2d876139c"
+    ],
+    "description": "ASPOR TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS 2 TİPLİ QULAQLIQLAR.3 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
+    "available": "true"
+  },
+  {
+    "id": 75,
+    "name": "Simsiz Qulaqlıq Airpods Aspor A615",
+    "price": 40,
+    "adminPrice": 12,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%203.webp?alt=media&token=a11b50af-226a-4a25-854f-900954472496",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%203.webp?alt=media&token=a11b50af-226a-4a25-854f-900954472496",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%203%202.webp?alt=media&token=d7810d3e-477e-45dd-bb55-5d2f3d0a1fbd"
+    ],
+    "description": "ASPOR TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS 3 TİPLİ QULAQLIQLAR.4 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
+    "available": "true"
+  },
+  {
+    "id": 76,
+    "name": "Simsiz Qulaqlıq Airpods Aspor A620",
+    "price": 50,
+    "adminPrice": 30,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%20pro%202.webp?alt=media&token=8eaac6ab-64ac-4014-bffa-f137edd12ccf",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%20pro%202.webp?alt=media&token=8eaac6ab-64ac-4014-bffa-f137edd12ccf",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%20pro%202%20.2.webp?alt=media&token=81cc9c44-5f20-41d1-9fb6-46064a8d9f93"
+    ],
+    "description": "ASPOR TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS PRO 2 TİPLİ QULAQLIQLAR.4 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
     "available": "true"
   }
 ]
