@@ -2,7 +2,6 @@
   {
     "id": 1,
     "name": "USB MİKRO HOCO BX 51 ",
-    "discounted": false,
     "price": 4,
     "adminPrice": 1,
     "userPrice": 3,
@@ -18,7 +17,7 @@
   {
     "id": 2,
     "name": "USB TYPE-C HOCO X88  ",
-    "discounted": true,
+    "discounted": 5,
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -34,7 +33,7 @@
   {
     "id": 3,
     "name": "USB MİKRO HOCO X88  ",
-    "discounted": true,
+    "discounted": 5,
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -50,7 +49,7 @@
   {
     "id": 4,
     "name": "USB İPH LİGHTNİNG HOCO X88  ",
-    "discounted": true,
+    "discounted": 5,
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -66,7 +65,6 @@
   {
     "id": 5,
     "name": "USB TYPE-C DENMEN D01T ",
-    "discounted": false,
     "adminPrice": 1,
     "userPrice": 3,
     "price": 4,
@@ -83,7 +81,6 @@
   {
     "id": 6,
     "name": "USB İPH LİGHTNİNG DENMEN D01L ",
-    "discounted": false,
     "adminPrice": 1,
     "userPrice": 3,
     "price": 4,
@@ -100,10 +97,9 @@
   {
     "id": 7,
     "name": "USB TYPE-C XİAOMİ TURBO ORGİNAL ",
-    "discounted": false,
     "adminPrice": 4,
     "userPrice": 10,
-    "price": 12,
+    "price": 10,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fmi%20turbo.jpg?alt=media&token=1665a04a-a161-4d2f-a24b-5e2796d5f767",
     "images": [
       "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fmi%20turbo.jpg?alt=media&token=1665a04a-a161-4d2f-a24b-5e2796d5f767",
@@ -116,7 +112,6 @@
   {
     "id": 8,
     "name": "USB TYPE-C BOROFONE BX54 ",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 6,
     "price": 8,
@@ -132,7 +127,6 @@
   {
     "id": 9,
     "name": "USB MİKRO JOKADE JA010 ",
-    "discounted": false,
     "adminPrice": 1,
     "userPrice": 3,
     "price": 4,
@@ -148,7 +142,6 @@
   {
     "id": 10,
     "name": "USB TYPE-C HOCO X87",
-    "discounted": false,
     "adminPrice": 3,
     "userPrice": 8,
     "price": 10,
@@ -164,7 +157,6 @@
   {
     "id": 11,
     "name": "USB İPH LİGHTNİNG HOCO X99",
-    "discounted": false,
     "adminPrice": 3,
     "userPrice": 8,
     "price": 10,
@@ -180,7 +172,6 @@
   {
     "id": 12,
     "name": "USB MİKRO DADU TPE 4",
-    "discounted": false,
     "adminPrice": 3,
     "userPrice": 10,
     "price": 10,
@@ -196,7 +187,6 @@
   {
     "id": 13,
     "name": "USB MİKRO DADU TPE 4",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 10,
     "price": 12,
@@ -212,7 +202,6 @@
   {
     "id": 14,
     "name": "USB MİKRO JOKADE JA014",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 10,
     "price": 12,
@@ -228,7 +217,6 @@
   {
     "id": 15,
     "name": "USB MİKRO İŞIQLI DENMEN D25",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 6,
     "price": 8,
@@ -243,7 +231,6 @@
   {
     "id": 16,
     "name": "USB TYPE-C İŞIQLI DENMEN D25",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 6,
     "price": 8,
@@ -258,7 +245,6 @@
   {
     "id": 17,
     "name": "USB İPH LİGHTNİNG İŞIQLI DENMEN D25",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 6,
     "price": 8,
@@ -274,7 +260,6 @@
   {
     "id": 18,
     "name": "USB İPH LİGHTNİNG DADU OD4 ",
-    "discounted": false,
     "adminPrice": 4,
     "userPrice": 10,
     "price": 12,
@@ -290,7 +275,6 @@
   {
     "id": 19,
     "name": "ADAPTER DƏST MİKRO HOCO CS11A",
-    "discounted": false,
     "adminPrice": 3,
     "userPrice": 6,
     "price": 8,
@@ -306,7 +290,6 @@
   {
     "id": 20,
     "name": "ADAPTER DƏST TYPE-C HOCO C106A",
-    "discounted": false,
     "adminPrice": 3,
     "userPrice": 6,
     "price": 8,
@@ -322,7 +305,6 @@
   {
     "id": 21,
     "name": "ADAPTER DƏST TYPE-C HOCO C109A",
-    "discounted": false,
     "adminPrice": 5,
     "userPrice": 10,
     "price": 12,
@@ -338,7 +320,6 @@
   {
     "id": 22,
     "name": "ADAPTER DƏST TYPE-C HOCO C98A",
-    "discounted": false,
     "adminPrice": 5,
     "userPrice": 10,
     "price": 12,
@@ -354,7 +335,6 @@
   {
     "id": 23,
     "name": "ADAPTER TƏK BAŞLIQ HOCO C109A",
-    "discounted": false,
     "adminPrice": 4,
     "userPrice": 8,
     "price": 10,
@@ -370,7 +350,6 @@
   {
     "id": 24,
     "name": "ADAPTER TƏK BAŞLIQ APPLE B CLASS",
-    "discounted": false,
     "adminPrice": 5,
     "userPrice": 15,
     "price": 20,
@@ -386,7 +365,6 @@
   {
     "id": 25,
     "name": "ADAPTER TƏK BAŞLIQ APPLE A CLASS",
-    "discounted": false,
     "adminPrice": 9,
     "userPrice": 20,
     "price": 30,
@@ -402,7 +380,6 @@
   {
     "id": 26,
     "name": "ADAPTER TƏK BAŞLIQ APPLE DUBAY ORJİNALI",
-    "discounted": false,
     "adminPrice": 15,
     "userPrice": 25,
     "price": 35,
@@ -418,7 +395,6 @@
   {
     "id": 27,
     "name": "ADAPTER TƏK BAŞLIQ APPLE 35 VATT",
-    "discounted": false,
     "adminPrice": 25,
     "userPrice": 40,
     "price": 50,
@@ -434,7 +410,6 @@
   {
     "id": 28,
     "name": "ADAPTER TƏK BAŞLIQ APPLE 20 VATT ORJİNAL ",
-    "discounted": false,
     "adminPrice": 25,
     "userPrice": 45,
     "price": 50,
@@ -450,7 +425,6 @@
   {
     "id": 29,
     "name": "ADAPTER TƏK BAŞLIQ SAMSUNG A CLASS",
-    "discounted": false,
     "adminPrice": 7,
     "userPrice": 15,
     "price": 20,
@@ -466,7 +440,6 @@
   {
     "id": 30,
     "name": "ADAPTER TƏK BAŞLIQ SAMSUNG ORJİNAL",
-    "discounted": false,
     "adminPrice": 15,
     "userPrice": 25,
     "price": 30,
@@ -482,7 +455,6 @@
   {
     "id": 31,
     "name": "ADAPTER TƏK BAŞLIQ XO 30 VATT ŞƏFFAF",
-    "discounted": false,
     "adminPrice": 7,
     "userPrice": 20,
     "price": 30,
@@ -498,7 +470,6 @@
   {
     "id": 32,
     "name": "USB İPH LİGHTNİNG KÖHNƏ",
-    "discounted": false,
     "adminPrice": 2,
     "userPrice": 5,
     "price": 7,
@@ -514,7 +485,6 @@
   {
     "id": 33,
     "name": "USB İPH LİGHTNİNG YENİ",
-    "discounted": false,
     "adminPrice": 6,
     "userPrice": 10,
     "price": 12,
@@ -530,7 +500,6 @@
   {
     "id": 34,
     "name": "QULAQLIQ BLUETOOTH BÖYÜK HOCO W46",
-    "discounted": false,
     "adminPrice": 13,
     "userPrice": 23,
     "price": 26,
