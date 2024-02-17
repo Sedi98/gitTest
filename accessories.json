@@ -1160,5 +1160,33 @@
     ],
     "description": "ASPOR TƏRƏFİNDƏN HAZIRLANMIŞ AİRPODS PRO 2 TİPLİ QULAQLIQLAR.4 SAAT FASİLƏSİZ MUSİQİ DİNLƏMƏNİ MÜMKÜN EDİR. SUPER SƏS KEYFİYYƏTİ VƏ AKUSTİKA.KEYFİYYƏTLİ MİKROFON İLƏ TELEFONLA RAHAT DANIŞMAQ İMKANI ",
     "available": "true"
+  },
+  {
+    "id": 79,
+    "name": "SMART SAAT EUROACS NANO WATCH 7",
+    "price": 50,
+    "adminPrice": 30,
+    "userPrice": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fwatch7.jpg?alt=media&token=3c74d1bd-c7ae-4373-9dcd-f4b1e9898cb0",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fwatch7.jpg?alt=media&token=3c74d1bd-c7ae-4373-9dcd-f4b1e9898cb0",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fseries-7-2.jpeg?alt=media&token=4c8b02d7-99f8-4941-b302-27cc8144109b"
+    ],
+    "description": "EUROACS TƏRƏFİNDƏN HAZIRLANMIŞ SMART SAAT 7 SERİYASI TİPLİ SAAT.ZƏNGLƏRİ MUSİQİNİ ADDIM ÖLÇMƏ  NƏBZ ÖLÇMƏ KİMİ FUNKSİYALARI VAR. ",
+    "available": "true"
+  },
+  {
+    "id": 80,
+    "name": "SMART SAAT 8 ULTRA",
+    "price": 35,
+    "adminPrice": 14,
+    "userPrice": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fwatch7.jpg?alt=media&token=3c74d1bd-c7ae-4373-9dcd-f4b1e9898cb0",
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fwatch7.jpg?alt=media&token=3c74d1bd-c7ae-4373-9dcd-f4b1e9898cb0",
+      "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fseries-7-2.jpeg?alt=media&token=4c8b02d7-99f8-4941-b302-27cc8144109b"
+    ],
+    "description": "T8000 ULTRA APPLE SMART SAAT 8 TİPLİ SMART SAAT. BLUETOOTH İLƏ QOŞULUR. ADDIM ÖLÇMƏ NƏBZ ÖLÇMƏ MESAJLAR BİLDİRİŞLƏR, TELEFONLA DANIŞMAQ KİMİ FUNKSİYALARI VAR ",
+    "available": "true"
   }
 ]
