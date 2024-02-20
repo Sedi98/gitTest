@@ -17,7 +17,7 @@
   {
     "id": 2,
     "name": "USB TYPE-C HOCO X88  ",
-    "discounted": 5,
+    
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -33,7 +33,7 @@
   {
     "id": 3,
     "name": "USB MİKRO HOCO X88  ",
-    "discounted": 5,
+    
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -49,7 +49,7 @@
   {
     "id": 4,
     "name": "USB İPH LİGHTNİNG HOCO X88  ",
-    "discounted": 5,
+    
     "adminPrice": 1,
     "price": 7,
     "userPrice": 5,
@@ -1122,7 +1122,7 @@
   {
     "id": 76,
     "name": "Simsiz Qulaqlıq Aspor A616",
-    "price": 35,
+    "price": 40,
     "adminPrice": 12,
     "userPrice": 17,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%202.webp?alt=media&token=a2ca0fdf-3753-4adb-858d-d56ae7574b7c",
@@ -1136,7 +1136,7 @@
   {
     "id": 77,
     "name": "Simsiz Qulaqlıq Airpods Aspor A615",
-    "price": 40,
+    "price": 45,
     "adminPrice": 12,
     "userPrice": 17,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%203.webp?alt=media&token=a11b50af-226a-4a25-854f-900954472496",
@@ -1151,6 +1151,7 @@
     "id": 78,
     "name": "Simsiz Qulaqlıq Airpods Aspor A620",
     "price": 50,
+    "discounted":45,
     "adminPrice": 30,
     "userPrice": 17,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fairpods%20pro%202.webp?alt=media&token=8eaac6ab-64ac-4014-bffa-f137edd12ccf",
@@ -1179,6 +1180,7 @@
     "id": 80,
     "name": "SMART SAAT 8 ULTRA",
     "price": 35,
+    "discounted": 30,
     "adminPrice": 14,
     "userPrice": 30,
     "image": "https://firebasestorage.googleapis.com/v0/b/sturdy-practice-408908.appspot.com/o/aksesuar%2Fwatch7.jpg?alt=media&token=3c74d1bd-c7ae-4373-9dcd-f4b1e9898cb0",
